@@ -1,0 +1,4208 @@
+** NEW DATASET **
+ds id: f6d8caef-578f-4afe-a8de-f5e972c43f0c
+ds on site: https://staging.resourcewatch.org/data/explore/f6d8caef-578f-4afe-a8de-f5e972c43f0c
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: d3f50041-2fbd-4749-b8c5-73d14f35193a
+ds on site: https://staging.resourcewatch.org/data/explore/d3f50041-2fbd-4749-b8c5-73d14f35193a
+
+~ layers ~
+
+layer id: 5b7a036c-eadc-42ad-a0db-130fbf66449b
+name: 2050 Animal Product Consumption
+description: 
+
+
+** NEW DATASET **
+ds id: acf42a1b-104b-4f81-acd0-549f805873fb
+ds on site: https://staging.resourcewatch.org/data/explore/acf42a1b-104b-4f81-acd0-549f805873fb
+
+~ layers ~
+
+layer id: 3a52f7ed-0c20-4691-981b-3a3521b069aa
+name: Cereals and Tubers: Food Price Spikes from Past 3 Months
+description: This index measures how far food prices rise above seasonal price trends for cereal and tuber commodities. The most recent data available from the past 3 months is shown.
+
+layer id: 43804fe4-8c9a-42fc-8c85-2a494727cf3d
+name: Miscellaneous Food: Food Price Spikes from Past 3 Months
+description: This index measures how far food prices rise above seasonal price trends for miscellaneous food commodities. The most recent data available from the past 3 months is shown.
+
+layer id: 2c7ddb1a-6a21-4f6c-a5a3-696e92bcf053
+name: Oil and Fats: Food Price Spikes from Past 3 Months
+description: This index measures how far food prices rise above seasonal price trends for oil and fat commodities. The most recent data available from the past 3 months is shown.
+
+layer id: 1ee0784f-654f-4caf-a059-f03dc46724b6
+name: Vegetables and Fruits: Food Price Spikes from Past 3 Months
+description: This index measures how far food prices rise above seasonal price trends for vegetable and fruit commodities. The most recent data available from the past 3 months is shown.
+
+layer id: e627185a-b22a-4b0f-b57d-a98fa48a8413
+name: Milk and Dairy: Food Price Spikes from Past 3 Months
+description: This index measures how far food prices rise above seasonal price trends for milk and dairy commodities. The most recent data available from the past 3 months is shown.
+
+layer id: 253437ed-1e21-4544-8bb3-1ec2d2656522
+name: Pulses and Nuts: Food Price Spikes from Past 3 Months
+description: This index measures how far food prices rise above seasonal price trends for pulse and nut commodities. The most recent data available from the past 3 months is shown.
+
+
+** NEW DATASET **
+ds id: 57156462-e47b-4e25-88bc-610ad55c35bc
+ds on site: https://staging.resourcewatch.org/data/explore/57156462-e47b-4e25-88bc-610ad55c35bc
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 6b8442f5-4766-4444-94b4-d6676277fd80
+ds on site: https://staging.resourcewatch.org/data/explore/6b8442f5-4766-4444-94b4-d6676277fd80
+
+~ layers ~
+
+layer id: 3885375e-7bac-4fcd-807f-8e12c6c0e5f1
+name: 1915-2014 Cold Water Coral Distribution by Depth (m)
+description: Global distribution of cold-water corals and their depths in 1915-2014.
+
+
+** NEW DATASET **
+ds id: 917f1945-fff9-4b6f-8290-4f4b9417079e
+ds on site: https://staging.resourcewatch.org/data/explore/917f1945-fff9-4b6f-8290-4f4b9417079e
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: b8a6a6ea-7d2f-4d59-bb5e-7143a2ddc1fe
+ds on site: https://staging.resourcewatch.org/data/explore/b8a6a6ea-7d2f-4d59-bb5e-7143a2ddc1fe
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: a290675c-9528-4a51-8201-f6c2d7848744
+ds on site: https://staging.resourcewatch.org/data/explore/a290675c-9528-4a51-8201-f6c2d7848744
+
+~ layers ~
+
+layer id: 09aa80be-d7c8-4008-98fb-8adbd3a2e05b
+name: 2014 Total GHG Emissions, Excluding Land-Use Change and Forestry (MtCO₂e)
+description: Total greenhouse gas emissions by country, excluding land-use change and forestry, in metric tons of carbon dioxide equivalent from 2014.
+
+
+** NEW DATASET **
+ds id: fa6443ff-eb95-4d0f-84d2-f0c91682efdf
+ds on site: https://staging.resourcewatch.org/data/explore/fa6443ff-eb95-4d0f-84d2-f0c91682efdf
+
+~ layers ~
+
+layer id: 07b6e469-d1c4-4ab8-a8a7-cf37f344ae4c
+name: 2015 Global Adaptation Index Score
+description: Country's vulnerability to climate change and other global challenges in combination with its readiness to improve resilience in 2015. The lower the score, the less capacity to adapt to climate change, and therefore the more vulnerable to its impacts.
+
+
+** NEW DATASET **
+ds id: 26fe7429-9087-434b-b9d1-856881a34f4a
+ds on site: https://staging.resourcewatch.org/data/explore/26fe7429-9087-434b-b9d1-856881a34f4a
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 66d1bba4-ccf4-415e-a2d0-f607c6304994
+ds on site: https://staging.resourcewatch.org/data/explore/66d1bba4-ccf4-415e-a2d0-f607c6304994
+
+~ layers ~
+
+layer id: 7701ed4c-95f6-4c7f-a170-f1cac0909cc1
+name: Soil Moisture (m³/m³)
+description: The volume of water in one cubic meter of soil.
+
+
+** NEW DATASET **
+ds id: 018719a6-009b-4b04-970d-08b93c8192cb
+ds on site: https://staging.resourcewatch.org/data/explore/018719a6-009b-4b04-970d-08b93c8192cb
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 94d3d000-1e12-46a1-be28-d9790233e2d2
+ds on site: https://staging.resourcewatch.org/data/explore/94d3d000-1e12-46a1-be28-d9790233e2d2
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 41397376-593d-4bfc-95c2-f18bb9ddaf71
+ds on site: https://staging.resourcewatch.org/data/explore/41397376-593d-4bfc-95c2-f18bb9ddaf71
+
+~ layers ~
+
+layer id: ae433876-5f75-4d06-bcd3-61e38e493cee
+name: 2016 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2016.
+
+layer id: 5cbd5236-ea21-4d95-b8c4-8a4d36e3ba7a
+name: 2015 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2015.
+
+layer id: 96d1cdd0-6e4c-47d2-bb54-aa6a4551e151
+name: 2014 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2014.
+
+layer id: f76b1e76-93cd-456e-a490-f6216e081c19
+name: 2013 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2013.
+
+layer id: 28492ba3-d47d-42c6-83e0-05b237cff262
+name: 2012 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2012.
+
+layer id: e45c3b19-02e8-4827-bc6a-1b059aea3ba5
+name: 2011 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2011.
+
+layer id: 1b396e0b-2d42-43cb-a181-ba7f3b6916f2
+name: 2010 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2010.
+
+layer id: 1bcf7b4d-6556-43e8-8cc6-a4df048b261e
+name: 2009 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2009.
+
+layer id: b011ff5f-ab77-4915-a19f-91b680e8578f
+name: 2008 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2008.
+
+layer id: 2bfb55d9-43fe-44c3-a246-75aa0729d28b
+name: 2007 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2007.
+
+layer id: c24ed614-5754-4f41-beca-7994f8a75ac8
+name: 2006 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2006.
+
+layer id: e606cbbd-1059-4d3f-954f-918a323c80f7
+name: 2005 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2005.
+
+layer id: 7ca29e97-7354-456c-b4af-9ddebc3a5c93
+name: 2004 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2004.
+
+layer id: 99f2c082-f40d-43b5-ae85-0ee02ba2fe09
+name: 2003 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2003.
+
+layer id: 3c79e16a-13fd-44f8-bcd7-a466eaa593a6
+name: 2002 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2002.
+
+layer id: 733cf3f1-004a-41b4-acef-f6887b9f1222
+name: 2001 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2001.
+
+layer id: 4b27b36b-a8d8-4f82-ab8d-8be1666c1695
+name: 2000 Landsat
+description: Composite of the best annual Landsat satellite imagery in 2001.
+
+layer id: a275e5f2-b264-442a-a3e1-bfb1ae011e3e
+name: 1999 Landsat
+description: Composite of the best annual Landsat satellite imagery in 1999.
+
+
+** NEW DATASET **
+ds id: 5e3a3a9f-7380-47c0-ad84-2c193861e106
+ds on site: https://staging.resourcewatch.org/data/explore/5e3a3a9f-7380-47c0-ad84-2c193861e106
+
+~ layers ~
+
+layer id: 09f174d9-93bf-4f30-b6d7-cff914fd7642
+name: 2013 Ecological Footprint ("global hectares" per capita)
+description: This dataset measures biologically productive land and water area (in "global hectares") required for an individual to produce all the resources they consume and to absorb the waste they generate, including CO₂ emissions in 2013.
+
+
+** NEW DATASET **
+ds id: c18a38cd-94ff-48cd-818f-6ffb05992abb
+ds on site: https://staging.resourcewatch.org/data/explore/c18a38cd-94ff-48cd-818f-6ffb05992abb
+
+~ layers ~
+
+layer id: 95557b73-07c5-48a6-841b-58f9d782b58e
+name: 2012-2015  Average Recycled Municipal Waste (tonnes, thousands)
+description: Average amount of municipal (including household) waste recycled from 2012-2015.  An average of data from 2012 through 2015 was created in order to include countries without data in the latest year.
+
+
+** NEW DATASET **
+ds id: fe311144-8c0e-4440-b068-6efd057e0f6a
+ds on site: https://staging.resourcewatch.org/data/explore/fe311144-8c0e-4440-b068-6efd057e0f6a
+
+~ layers ~
+
+layer id: 998035d6-2d5f-4876-ba6c-e7443db3afa8
+name: 2016 FDI Regulatory Restrictiveness Index
+description: This data set measure statutory restrictions on foreign direct investment (FDI). The overall restrictiveness index is the average of sectoral scores in 2016. Restrictions are evaluated on a 0 (no restrictions) to 1 (full restrictions).
+
+
+** NEW DATASET **
+ds id: 3d2ce960-abda-4c9c-bd29-1929e9ca24c9
+ds on site: https://staging.resourcewatch.org/data/explore/3d2ce960-abda-4c9c-bd29-1929e9ca24c9
+
+~ layers ~
+
+layer id: 1d065607-2b13-40cf-973a-6f55b4de573b
+name: 2040 Projected Fossil Fuel CO₂ Emissions (Mt)
+description: Projected carbon dioxide emissions in 2040
+
+
+** NEW DATASET **
+ds id: 10337db6-8321-445e-a60b-28fc1e114f29
+ds on site: https://staging.resourcewatch.org/data/explore/10337db6-8321-445e-a60b-28fc1e114f29
+
+~ layers ~
+
+layer id: 2800bf8d-6d27-4a77-a621-ef65cf44c7bf
+name: 2012-2015 Average Municipal Waste per Capita (kg)
+description: Average amount of municipal (including household) waste generated per capita from 2012-2015.  An average of data from 2012 through 2015 was created in order to include countries without data in the latest year.
+
+
+** NEW DATASET **
+ds id: 6b670396-c52c-430c-b5bb-20693da03b60
+ds on site: https://staging.resourcewatch.org/data/explore/6b670396-c52c-430c-b5bb-20693da03b60
+
+~ layers ~
+
+layer id: d8c8ce54-b1a8-43b4-92fd-c2c404a93017
+name: 2013 Road Traffic Death Rates (per 100,000 people)
+description: Estimated road traffic fatal injuries per 100,000 population in 2013.
+
+
+** NEW DATASET **
+ds id: 37d04efc-0ab2-4499-a891-54dca1013c74
+ds on site: https://staging.resourcewatch.org/data/explore/37d04efc-0ab2-4499-a891-54dca1013c74
+
+~ layers ~
+
+layer id: e01c4ff1-94a8-466c-a494-85dfc6a54b36
+name: 2015 Total Access to Improved Sanitation Facilities (%)
+description: The percentage of the national  population using improved sanitation facilities in 2015.
+
+layer id: 359d5942-86e2-4f75-baf0-fc938d861510
+name: 2015 Rural Access to Improved Sanitation Facilities (%)
+description: The percentage of the rural population using improved sanitation facilities in 2015.
+
+layer id: eb43393c-32be-4ffa-8152-915a0dc4357b
+name: 2015 Urban Access to Improved Sanitation Facilities (%)
+description: The percentage of the urban population using improved sanitation facilities in 2015.
+
+
+** NEW DATASET **
+ds id: b37048be-9b23-4458-a047-888956c69aa1
+ds on site: https://staging.resourcewatch.org/data/explore/b37048be-9b23-4458-a047-888956c69aa1
+
+~ layers ~
+
+layer id: da812e1b-573a-45e7-8fbf-6f996133439c
+name: 2015 Out-Of-School Rate (%)
+description: Out-of-school rate for children, adolescents and youth of primary and secondary school age in 2015.
+
+
+** NEW DATASET **
+ds id: 8671f536-1979-4b6f-a147-70152fcb44ed
+ds on site: https://staging.resourcewatch.org/data/explore/8671f536-1979-4b6f-a147-70152fcb44ed
+
+~ layers ~
+
+layer id: 562795be-8713-4cc9-acf6-5925f0cbff08
+name: 2015 Life Expectancy at Birth (years)
+description: The number of years, on average, a newborn infant in each country would live if prevailing national patterns of mortality at the time of its birth were to stay the same throughout its life, as of 2015.
+
+
+** NEW DATASET **
+ds id: 7793f46c-a48a-466f-a8ce-ca1a87b7aeed
+ds on site: https://staging.resourcewatch.org/data/explore/7793f46c-a48a-466f-a8ce-ca1a87b7aeed
+
+~ layers ~
+
+layer id: c899bd6b-f18a-48a6-8d7e-4b4477dea59e
+name: 2016 Worldwide Governance Indicators - Voice and Accountability (percentile)
+description: The Worldwide Governance Indicators report on 6 broad dimensions of governance for over 200 countries and territories over the period 1996-2016. Voice and accountability captures perceptions of the extent to which a country's citizens are able to participate in selecting their government, as well as freedom of expression, freedom of association, and a free media.
+
+
+** NEW DATASET **
+ds id: f8d3e79c-c3d0-4f9a-9b68-9c5ad1f025e4
+ds on site: https://staging.resourcewatch.org/data/explore/f8d3e79c-c3d0-4f9a-9b68-9c5ad1f025e4
+
+~ layers ~
+
+layer id: 203cc244-2ff0-4afa-8de9-ee11698112db
+name: 2012 GINI Index
+description: The GINI Index measures inequality in a country, or the extent to which the distribution of income among individuals or households within an economy deviates from a perfectly equal distribution. A GINI index of 0 represents perfect equality, while an index of 100 implies perfect inequality, shown here as of 2012.
+
+
+** NEW DATASET **
+ds id: e8f53f73-d77c-485a-a2a6-1c47ea4aead9
+ds on site: https://staging.resourcewatch.org/data/explore/e8f53f73-d77c-485a-a2a6-1c47ea4aead9
+
+~ layers ~
+
+layer id: c43b7d21-1e0a-4257-8618-b5a356e06530
+name: 2015 Adult Literacy Rate (%)
+description: The percentage of the total population of adults (15+ years) that were literate in 2015.
+
+
+** NEW DATASET **
+ds id: 00abb46f-34e2-4bf7-be30-1fb0b1de022f
+ds on site: https://staging.resourcewatch.org/data/explore/00abb46f-34e2-4bf7-be30-1fb0b1de022f
+
+~ layers ~
+
+layer id: d68e4d68-16d6-4397-a415-de8e080a86ba
+name: 2016 Gross Domestic Product Per Capita (PPP, current international $)
+description: 2016 gross domestic product per capita based on purchasing power parity (PPP) in international dollars.
+
+
+** NEW DATASET **
+ds id: a89c95c7-0b82-4162-b9d8-cc0205e9f7ec
+ds on site: https://staging.resourcewatch.org/data/explore/a89c95c7-0b82-4162-b9d8-cc0205e9f7ec
+
+~ layers ~
+
+layer id: 8eec0d73-1380-4756-a5cd-9a6acec7752e
+name: 2005-2015 Multidimensional Poverty Index
+description: Multidimensional Poverty Index identifies the percentage of the population that is multidimensionally poor adjusted by the intensity of the deprivations. The latest year data was reported is displayed (varies by country).
+
+
+** NEW DATASET **
+ds id: bea122ce-1e4b-465d-8b7b-fa11aadd20f7
+ds on site: https://staging.resourcewatch.org/data/explore/bea122ce-1e4b-465d-8b7b-fa11aadd20f7
+
+~ layers ~
+
+layer id: a26606ad-3b16-4a4d-be7f-f2640a5c81e2
+name: 2015 Human Development Index
+description: A composite index measuring average achievement in 3 basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. 2015 Index scores are displayed.
+
+layer id: f9326278-2433-4066-8382-78a451021db9
+name: 2010 Human Development Index
+description: A composite index measuring average achievement in 3 basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. 2010 Index scores are displayed.
+
+layer id: 888e1e21-98df-447e-9507-20748700ffce
+name: 2005 Human Development Index
+description: A composite index measuring average achievement in 3 basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. 2005 Index scores are displayed.
+
+layer id: be670aa4-50f1-48aa-90ba-8933ec3a132d
+name: 2000 Human Development Index
+description: A composite index measuring average achievement in 3 basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. 2000 Index scores are displayed.
+
+layer id: 18bfad69-efcf-4ee7-ae02-1ce3cece7ec7
+name: 1995 Human Development Index
+description: A composite index measuring average achievement in 3 basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. 1995 Index scores are displayed.
+
+layer id: d88520ba-90f5-4837-ac7f-9b628a991565
+name: 1990 Human Development Index
+description: A composite index measuring average achievement in 3 basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. 1990 Index scores are displayed.
+
+
+** NEW DATASET **
+ds id: 95b013a3-389a-4367-83b7-c9d68c28c406
+ds on site: https://staging.resourcewatch.org/data/explore/95b013a3-389a-4367-83b7-c9d68c28c406
+
+~ layers ~
+
+layer id: e1b3722a-d42d-414e-9fee-2b122fe31299
+name: 2015 Agriculture, Value Added (% of GDP)
+description: The percentage of the Gross Domestic Product (GDP) that came from the agricultural sector in 2015.
+
+
+** NEW DATASET **
+ds id: 91ff1359-6680-49bc-8002-20256e999993
+ds on site: https://staging.resourcewatch.org/data/explore/91ff1359-6680-49bc-8002-20256e999993
+
+~ layers ~
+
+layer id: 3bd2aa9f-a04d-4134-9df2-3b836523c812
+name: 2016-2050 Vulnerability to Effects of Climate Change on Fisheries Index for RCP 8.5
+description: This index calculates the vulnerability of the fishing industries of coastal countries to climate change based on IPCC greenhouse gas concentration trajectory RCP 8.5 for 2016-2050. The index is calculated based on exposure, sensitivity and vulnerability. The RCP 8.5 scenario is closer to business-as-usual, somewhat pessimistic.
+
+
+** NEW DATASET **
+ds id: 4338471d-881a-475f-8bd9-60c4d48b8e12
+ds on site: https://staging.resourcewatch.org/data/explore/4338471d-881a-475f-8bd9-60c4d48b8e12
+
+~ layers ~
+
+layer id: 723ebcaa-77ea-42f3-8cb2-80485229ff19
+name: 2017 Global Hunger Index - Severity Scale
+description: The severity scale shows the severity of hunger–from low (0) to extremely alarming (50-100)–associated with the range of possible Global Hunger Index Scores in 2017. The rankings are: Low (≤9.9), Moderate (10.0-19.9), Serious (20.0-34.9), Alarming (35.0-49.9), Extremely Alarming (≥50), and Insufficient data, but significant concern.
+
+
+** NEW DATASET **
+ds id: c665f519-eef9-4f67-a8bf-7e3e6dc8bfcd
+ds on site: https://staging.resourcewatch.org/data/explore/c665f519-eef9-4f67-a8bf-7e3e6dc8bfcd
+
+~ layers ~
+
+layer id: 95ecdbc7-be90-4c45-9c64-522a5b2e32e6
+name: 2014 Access to Clean Cooking Fuels (% of population)
+description: Percentage of population with access to clean fuels and technologies for cooking.
+
+
+** NEW DATASET **
+ds id: d639909f-bcf3-4875-b8c3-35f030b68ed3
+ds on site: https://staging.resourcewatch.org/data/explore/d639909f-bcf3-4875-b8c3-35f030b68ed3
+
+~ layers ~
+
+layer id: 346f8cd8-99ff-4330-befe-21562cdd1688
+name: 2014 Access to Electricity (% of total population)
+description: Percentage of total population with access to electricity.
+
+
+** NEW DATASET **
+ds id: 2c092793-aa3a-4520-959c-ad48165dcae4
+ds on site: https://staging.resourcewatch.org/data/explore/2c092793-aa3a-4520-959c-ad48165dcae4
+
+~ layers ~
+
+layer id: 2aed477d-ca74-4271-b126-2dcb5641e0bb
+name: 2010 SE4ALL Renewable Energy Consumption (TJ, thousands)
+description: The Sustainable Energy for All (SE4ALL) database presents data for 54 electricity access, efficiency, and sustainability related indicators for 251 countries. This map shows renewable energy consumption in thousands of terajoules by country for 2010.
+
+
+** NEW DATASET **
+ds id: 52c55378-0484-48c3-92fc-3ee94d21c716
+ds on site: https://staging.resourcewatch.org/data/explore/52c55378-0484-48c3-92fc-3ee94d21c716
+
+~ layers ~
+
+layer id: f98f8874-3d5d-4818-a75c-29a8d1b57cb3
+name: 2016 Gross Domestic Product (PPP, current international $, billions)
+description: 2016 gross domestic power based on purchasing power parity (PPP) in international dollars
+
+
+** NEW DATASET **
+ds id: 35ce2b98-adbb-4873-b334-d7b1cc542de7
+ds on site: https://staging.resourcewatch.org/data/explore/35ce2b98-adbb-4873-b334-d7b1cc542de7
+
+~ layers ~
+
+layer id: ad704eea-4ef5-455c-b7ae-ad5bab572e0c
+name: 2014 Urban Population Living In Slums (%)
+description: The percentage of the urban population living in slum households in 2014.  A slum household is defined as a group of individuals living under the same roof lacking one or more of the following conditions: access to improved water, access to improved sanitation, sufficient living area, and durability of housing.
+
+
+** NEW DATASET **
+ds id: d38d0d5c-31b1-47f4-9d2e-d8fba4c7d083
+ds on site: https://staging.resourcewatch.org/data/explore/d38d0d5c-31b1-47f4-9d2e-d8fba4c7d083
+
+~ layers ~
+
+layer id: 056002f8-0da6-4932-87d9-64939eaaa688
+name: 2016 Urban Population (%)
+description: Percentage of population living in urban areas in 2016.
+
+
+** NEW DATASET **
+ds id: d446a52e-c4c1-4e74-ae30-3204620a0365
+ds on site: https://staging.resourcewatch.org/data/explore/d446a52e-c4c1-4e74-ae30-3204620a0365
+
+~ layers ~
+
+layer id: 3369edc2-4537-44eb-979e-fb9b573d1493
+name: 2014 National Access to Electricity (%)
+description: An estimate of the percentage of the national population with access to electricity in 2014.
+
+layer id: d4404f80-c2d3-479d-b19c-749a8f6e2696
+name: 2014 Rural Access to Electricity (%)
+description: An estimate of the percentage of the rural population with access to electricity in 2014.
+
+layer id: a0e3f05d-3b0a-44d1-8114-7e9e9e2b65f9
+name: 2014 Urban Access to Electricity (%)
+description: An estimate of the percentage of the urban population with access to electricity in 2014.
+
+
+** NEW DATASET **
+ds id: c61c364b-1d68-4dd9-ae3d-76c2a0022280
+ds on site: https://staging.resourcewatch.org/data/explore/c61c364b-1d68-4dd9-ae3d-76c2a0022280
+
+~ layers ~
+
+layer id: a7dbbf23-254a-49a3-a5dd-b12378fa345b
+name: 2017 Domestic Extraction - Non-Metallic Minerals (tonnes, millions)
+description: The total amount of non-metallic minerals extracted in 2017 by country.
+
+layer id: 7d9d0f7f-dd86-4550-b7ae-a2994d0204d7
+name: 2017 Domestic Extraction - Metal Ores (tonnes, millions)
+description: The total amount of metal ores extracted in 2017 by country.
+
+layer id: 52f502f1-95ad-40e3-906b-9ab8068e9c62
+name: 2017 Domestic Extraction - Fossil Fuels (tonnes, millions)
+description: Total amount of fossil fuels extracted in 2017 by country.
+
+layer id: a64f3cad-1e30-4289-83dd-d606e602ee1c
+name: 2017 Domestic Extraction - Biomass (tonnes, millions)
+description: The total amount of biomass extracted in 2017 by country.
+
+
+** NEW DATASET **
+ds id: a0aecb8d-07ee-42e6-be3d-e5cabf12b0a9
+ds on site: https://staging.resourcewatch.org/data/explore/a0aecb8d-07ee-42e6-be3d-e5cabf12b0a9
+
+~ layers ~
+
+layer id: 40dff26a-1f11-4c35-b261-e0c432b4ee77
+name: 2014-2018 Number of Migrant Deaths
+description: Deaths along migratory routes worldwide from 2014 to the present.
+
+layer id: 0c094e37-4563-4633-9a38-28dd4a4724bf
+name: Migrant Deaths (past 30 days)
+description: Migrant deaths reported in the past 30 days.
+
+
+** NEW DATASET **
+ds id: 2e31a1f3-576b-46b4-84f0-3f0cc399f887
+ds on site: https://staging.resourcewatch.org/data/explore/2e31a1f3-576b-46b4-84f0-3f0cc399f887
+
+~ layers ~
+
+layer id: e94efe26-7801-409f-9d24-90c2a652cf83
+name: 2015 Account Balance (BoP, current USD, billions)
+description: 2015 reported figures of a country's current account balance in the form of balance of payments (BoP) in billion current USD.
+
+
+** NEW DATASET **
+ds id: b90a8b73-e64f-4efc-baaa-3897abd50ebf
+ds on site: https://staging.resourcewatch.org/data/explore/b90a8b73-e64f-4efc-baaa-3897abd50ebf
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: f84b559f-1eb1-43f2-871f-93fea669bf93
+ds on site: https://staging.resourcewatch.org/data/explore/f84b559f-1eb1-43f2-871f-93fea669bf93
+
+~ layers ~
+
+layer id: 1002c7f6-78f7-4fde-a8c3-ba8f8abf2b7f
+name: PM 10 Air Quality Measurements (µg/m³)
+description: Measure of PM10 parameter in µg/m³.  Record of official, stationary, outdoor air quality measurements in 2017 reported by government entities or international organizations.
+
+layer id: 52a0250f-ae97-462d-b8fb-995e3d8fc084
+name: PM 2.5 Air Quality Measurement (µg/m³)
+description: Measure of PM2.5 parameter in µg/m³.  Record of official, stationary, outdoor air quality measurements reported by government entities or international organizations.
+
+layer id: 54e59da1-961d-4f2d-8252-8727c97589d2
+name: AQI
+description: TEST: AQI as calculated by Blue Raster
+
+
+** NEW DATASET **
+ds id: 815eaa09-d626-495e-91e2-523cb07de475
+ds on site: https://staging.resourcewatch.org/data/explore/815eaa09-d626-495e-91e2-523cb07de475
+
+~ layers ~
+
+layer id: a0cf3282-976c-455c-9352-3cc559dc76c0
+name: [delete] Average PM2.5 concentrations over past 24 hrs
+description: Fine particulate matter concentrations
+
+layer id: f54ff5f7-a60b-4138-ab8d-46a34686479c
+name: [test] Average PM2.5 concentrations over past 24 hrs
+description: Fine particulate matter concentrations
+
+layer id: 3abeb5a7-4c61-4272-9409-8138d543220f
+name: Average PM2.5 concentrations over past 24 hrs (µg/m³)
+description: 
+
+layer id: f6fa9aa2-d04f-4b0c-8ebb-7109b66d4b4a
+name: Average PM10 concentrations over past 24 hrs (µg/m³)
+description: 
+
+layer id: 4c48bd18-192c-4c74-b7c8-809c0abbaefd
+name: Average BC concentrations over past 24 hrs (µg/m³)
+description: 
+
+layer id: c9bf120f-b5ee-48e9-8d51-6509ff69bdcc
+name: Average NO₂ concentrations over past 24 hrs (µg/m³)
+description: 
+
+layer id: b4991fc2-f704-4667-a8e2-604c608ff0f5
+name: Average O₃ concentrations over past 24 hrs (µg/m³)
+description: 
+
+layer id: b30fde63-382d-4189-93a2-eced17f38b29
+name: Average CO concentrations over past 24 hrs (µg/m³)
+description: 
+
+layer id: b4f1bd67-d0b7-4b53-a815-1638761ca70f
+name: Average SO₂ concentrations over past 24 hrs (µg/m³)
+description: 
+
+
+** NEW DATASET **
+ds id: 20cc5eca-8c63-4c41-8e8e-134dcf1e6d76
+ds on site: https://staging.resourcewatch.org/data/explore/20cc5eca-8c63-4c41-8e8e-134dcf1e6d76
+
+~ layers ~
+
+layer id: 5ca12eec-f8fe-49eb-b353-67c9eeb5bc6a
+name: Active Fires (VIIRS)
+description: Fires registered past week
+
+layer id: deb36d1c-4c66-4d30-81a1-3c043e7323b5
+name: Active Fires (VIIRS)  by Fire Radiative Power
+description: Alerts from the last 7 days with a Fire Radiative Power greater than 100MW.
+
+
+** NEW DATASET **
+ds id: 2034a766-6e8a-416d-b8ab-9b7b3e3abb15
+ds on site: https://staging.resourcewatch.org/data/explore/2034a766-6e8a-416d-b8ab-9b7b3e3abb15
+
+~ layers ~
+
+layer id: d734afa2-313e-408a-b176-81f0f80ce0a5
+name: 2050 Maize Yield Change - SRES A1FI Scenario (%)
+description: Maize yield change (%) from baseline under the SRES A1FI 2020 scenario. Data ranges from -9.1 to +6.
+
+
+** NEW DATASET **
+ds id: 51159bdb-4904-4101-a88e-ca7bd4f67cb0
+ds on site: https://staging.resourcewatch.org/data/explore/51159bdb-4904-4101-a88e-ca7bd4f67cb0
+
+~ layers ~
+
+layer id: 97e05d06-deb9-4625-a307-5bb752eec72b
+name: 2017 Airports
+description: Location data for 7,184 global airports in 2017.
+
+
+** NEW DATASET **
+ds id: 60be01b0-99fb-459c-8a08-b934270f8c4b
+ds on site: https://staging.resourcewatch.org/data/explore/60be01b0-99fb-459c-8a08-b934270f8c4b
+
+~ layers ~
+
+layer id: 7aca78f8-0944-4388-90ef-b639623ac0ee
+name: Surface Water Occurrence
+description: The frequency with which water was present based on Landsat scenes acquired between 16 March 1984 and 10 October 2015.
+
+layer id: aef395a5-6a8d-4ab4-9409-b893d9645f08
+name: Absolute Change in Surface Water Occurrence
+description: Absolute change in occurrence between two epochs: 1984-1999 vs 2000-2015.
+
+layer id: d0ecc6fb-cc31-461c-8aa6-7a1a2b906c8c
+name: Normalized Change in Surface Water Occurrence
+description: Normalized change in occurrence between two epochs: 1984-1999 vs 2000-2015: (epoch1-epoch2) /(epoch1+epoch2) * 100.
+
+
+** NEW DATASET **
+ds id: c8d3a605-3d50-46cf-a707-2aacbf6f7cb0
+ds on site: https://staging.resourcewatch.org/data/explore/c8d3a605-3d50-46cf-a707-2aacbf6f7cb0
+
+~ layers ~
+
+layer id: 70fdf0b1-2529-4b1e-bce9-814417cdfcb8
+name: Groundwater Vulnerability to Floods and Droughts
+description: Groundwater resources that are at risk from floods or droughts, and those that can be safely relied upon should a flood or drought occur.
+
+
+** NEW DATASET **
+ds id: c02da519-12f3-4c6a-86e7-648afac80b23
+ds on site: https://staging.resourcewatch.org/data/explore/c02da519-12f3-4c6a-86e7-648afac80b23
+
+~ layers ~
+
+layer id: 473fc70a-81cd-47c4-8cc4-938a57ffa3d2
+name: Internationally Important Wetlands
+description: General types of wetlands of international importance, as defined by the Convention on Wetlands.
+
+
+** NEW DATASET **
+ds id: d1fd9ac1-b99f-4f5f-b9d8-d3f1f818321a
+ds on site: https://staging.resourcewatch.org/data/explore/d1fd9ac1-b99f-4f5f-b9d8-d3f1f818321a
+
+~ layers ~
+
+layer id: d7b3e3b4-8568-4689-8e77-49417f5d65bd
+name: Sea Level Trends (mm/year)
+description: Relative sea level rise measured at various global coastal locations. The data ranges from -17.6 to + 9.65 millimeters per year.
+
+
+** NEW DATASET **
+ds id: e2971008-029f-441b-97cd-ee0555728182
+ds on site: https://staging.resourcewatch.org/data/explore/e2971008-029f-441b-97cd-ee0555728182
+
+~ layers ~
+
+layer id: 614b5627-b34b-41aa-8c07-baad3ab649f5
+name: 1850-2017 Glacial Extent
+description: The extents of the world's estimated 160,000 glaciers from 1850-2017.
+
+layer id: 0c7f86bb-65ec-4096-8b98-88828d42441f
+name: 1850-2017 Glacier Locations
+description: The locations of the world's glaciers from 1850-2017.
+
+
+** NEW DATASET **
+ds id: 3624554e-b240-4edb-9110-1f010642c3f3
+ds on site: https://staging.resourcewatch.org/data/explore/3624554e-b240-4edb-9110-1f010642c3f3
+
+~ layers ~
+
+layer id: 5522b6ee-66d5-4d2d-9109-ae8e6b7e3a26
+name: 2005 Coral Reef Locations
+description: A record of global coral reef locations in 2005.
+
+
+** NEW DATASET **
+ds id: e0b94aef-4a3c-4fe3-8a58-7b713a4234a2
+ds on site: https://staging.resourcewatch.org/data/explore/e0b94aef-4a3c-4fe3-8a58-7b713a4234a2
+
+~ layers ~
+
+layer id: 4c933a71-06aa-473d-9b93-9a5b5fbd554b
+name: Port Locations
+description: Locations, physical characteristics, facilities and services offered by major ports around the world.
+
+
+** NEW DATASET **
+ds id: 943f3702-421f-47a4-9b99-e2d5a9f544a7
+ds on site: https://staging.resourcewatch.org/data/explore/943f3702-421f-47a4-9b99-e2d5a9f544a7
+
+~ layers ~
+
+layer id: 72bd4541-89d4-467d-905d-dc745511e2cc
+name: Roads
+description: Network of roads between settlements.
+
+
+** NEW DATASET **
+ds id: e63bb157-4b98-4ecb-81d6-c1b15e79895a
+ds on site: https://staging.resourcewatch.org/data/explore/e63bb157-4b98-4ecb-81d6-c1b15e79895a
+
+~ layers ~
+
+layer id: 212a1516-c7d5-44aa-a18a-ab8bc99929e7
+name: Dam Locations
+description: A global picture of dam locations  in 2011.
+
+layer id: 6528a5e5-c4cc-49b1-a603-b9ee90b644f7
+name: Reservoir Locations
+description: A global picture of reservoirs in 2011.
+
+
+** NEW DATASET **
+ds id: f94db446-be63-4fb9-a6ea-7cc918a0d338
+ds on site: https://staging.resourcewatch.org/data/explore/f94db446-be63-4fb9-a6ea-7cc918a0d338
+
+~ layers ~
+
+layer id: 2540ad72-2069-4801-8325-d5732c956c4f
+name: Urban Heat Island Effect, Daytime Temperature Difference (°C)
+description: A global data set of the difference between the average summer daytime maximum land surface temperatures for urban area and a 10 km buffer.
+
+
+** NEW DATASET **
+ds id: 1afed2fd-7f44-48c9-b5d6-9b056000956d
+ds on site: https://staging.resourcewatch.org/data/explore/1afed2fd-7f44-48c9-b5d6-9b056000956d
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: aab58627-36b7-41fc-9658-27a850c34d15
+ds on site: https://staging.resourcewatch.org/data/explore/aab58627-36b7-41fc-9658-27a850c34d15
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 86c7135a-855d-4f1b-9d67-f545a93281b3
+ds on site: https://staging.resourcewatch.org/data/explore/86c7135a-855d-4f1b-9d67-f545a93281b3
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 45c3a4cb-2425-41c8-bb4b-11fcbb8bc998
+ds on site: https://staging.resourcewatch.org/data/explore/45c3a4cb-2425-41c8-bb4b-11fcbb8bc998
+
+~ layers ~
+
+layer id: 9a784b90-1fa9-4e78-98a2-1d891d644d34
+name: 2008 Energy Consumption Per Capita (kcal/day)
+description: -
+
+layer id: 254d0d70-630a-49af-bc26-cf8ecba2a89b
+name: 2008 Energy Consumption per Capita (long_
+description: 
+
+
+** NEW DATASET **
+ds id: 9b6e6bce-efce-49a5-b603-385b8dae29e0
+ds on site: https://staging.resourcewatch.org/data/explore/9b6e6bce-efce-49a5-b603-385b8dae29e0
+
+~ layers ~
+
+layer id: 68fc2ee1-d97b-4574-ba33-67d93ee36b80
+name: 2016 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2016. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+
+** NEW DATASET **
+ds id: 0087944f-871c-44bc-b4d9-cd5acfc27023
+ds on site: https://staging.resourcewatch.org/data/explore/0087944f-871c-44bc-b4d9-cd5acfc27023
+
+~ layers ~
+
+layer id: 7a270c3a-1161-4fb2-a613-090d3e603126
+name: 2000 Tree Cover
+description: Areas of tree cover in 2000 with >30% canopy density.
+
+layer id: da7f072e-b0f6-42bb-8a37-83bd0eee54be
+name: 2010 Tree Cover
+description: 
+
+
+** NEW DATASET **
+ds id: f655d9b2-ea32-4753-9556-182fc6d3156b
+ds on site: https://staging.resourcewatch.org/data/explore/f655d9b2-ea32-4753-9556-182fc6d3156b
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: dd95d1e6-b811-4907-867b-78857ad87ec6
+ds on site: https://staging.resourcewatch.org/data/explore/dd95d1e6-b811-4907-867b-78857ad87ec6
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 0570f6d0-b34b-4bb3-bd93-46644a078996
+ds on site: https://staging.resourcewatch.org/data/explore/0570f6d0-b34b-4bb3-bd93-46644a078996
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 095eee4a-ff4e-4c58-9110-85a9e42ed6f5
+ds on site: https://staging.resourcewatch.org/data/explore/095eee4a-ff4e-4c58-9110-85a9e42ed6f5
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: d287c201-4d7b-4b41-b352-edfcc6f96cb0
+ds on site: https://staging.resourcewatch.org/data/explore/d287c201-4d7b-4b41-b352-edfcc6f96cb0
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 782b2e43-f492-4cea-a195-6635148a3c1b
+ds on site: https://staging.resourcewatch.org/data/explore/782b2e43-f492-4cea-a195-6635148a3c1b
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 1616a329-1bf0-4a45-992f-3087b76c232e
+ds on site: https://staging.resourcewatch.org/data/explore/1616a329-1bf0-4a45-992f-3087b76c232e
+
+~ layers ~
+
+layer id: 80d2665b-bba4-4de9-ba5e-d0487e920784
+name: Current Floods
+description: lerele
+
+
+** NEW DATASET **
+ds id: de24a492-acee-4345-9073-bbbe991f6ede
+ds on site: https://staging.resourcewatch.org/data/explore/de24a492-acee-4345-9073-bbbe991f6ede
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 60d3b365-6c0b-4f1c-9b7f-f3f00f2a05d7
+ds on site: https://staging.resourcewatch.org/data/explore/60d3b365-6c0b-4f1c-9b7f-f3f00f2a05d7
+
+~ layers ~
+
+layer id: 60cbfaa0-0ff5-45e5-a5fc-24e0a722c689
+name: Weekly Volcano Report
+description: Volcanoes with activity registered over the past 7 days.
+
+
+** NEW DATASET **
+ds id: c667617a-44e8-4181-b96d-f99bbe73c331
+ds on site: https://staging.resourcewatch.org/data/explore/c667617a-44e8-4181-b96d-f99bbe73c331
+
+~ layers ~
+
+layer id: 1df1d8dd-4285-43b6-9856-e23a6c07c280
+name: Smoke Plume Concentration (past 14 days)
+description: Significant smoke plumes that are detected by the satellites are outlined by an analyst as well with an estimate of the smoke concentration provided. Data shown is from the previous 14 days.
+
+
+** NEW DATASET **
+ds id: ea208a8b-4559-434b-82ee-95e041596a3a
+ds on site: https://staging.resourcewatch.org/data/explore/ea208a8b-4559-434b-82ee-95e041596a3a
+
+~ layers ~
+
+layer id: 2a022fc2-bfed-477e-9a16-75a1fb594620
+name: 2017 African and Asian Conflict and Protest Events
+description: 
+
+layer id: 2da3bbb8-a8b7-47b7-b3bc-823ddc330960
+name: African and Asian Conflict and Protest Events (past 30 days)
+description: 
+
+
+** NEW DATASET **
+ds id: eb06657f-8485-42ac-89ee-9665cf4f7c49
+ds on site: https://staging.resourcewatch.org/data/explore/eb06657f-8485-42ac-89ee-9665cf4f7c49
+
+~ layers ~
+
+layer id: 029b6b49-dd20-4172-8842-6cbba6bdaf87
+name: 2017 Conflict and Protest Events in  Asian States
+description: Location of conflicts and protests for the Asian States in 2017.
+
+
+** NEW DATASET **
+ds id: 8d84f6c6-8e7d-410e-a408-cbfb2555b35d
+ds on site: https://staging.resourcewatch.org/data/explore/8d84f6c6-8e7d-410e-a408-cbfb2555b35d
+
+~ layers ~
+
+layer id: b508a5f8-28f2-41c6-b0f7-eac918083062
+name: Conflict and Protest Data for African States
+description: Location of conflicts and protests for the African States in 2017.
+
+
+** NEW DATASET **
+ds id: f609c89f-38ca-426d-b33e-0c33a509ad23
+ds on site: https://staging.resourcewatch.org/data/explore/f609c89f-38ca-426d-b33e-0c33a509ad23
+
+~ layers ~
+
+layer id: 6c9faa5a-028b-4805-bc60-5ffda8207bb7
+name: Mining Concessions
+description: Boundaries of areas allocated by governments to companies for extraction of minerals.
+
+
+** NEW DATASET **
+ds id: c2142922-84d9-4564-8216-a4867b9e48c5
+ds on site: https://staging.resourcewatch.org/data/explore/c2142922-84d9-4564-8216-a4867b9e48c5
+
+~ layers ~
+
+layer id: 2a337757-92a6-478a-8116-0728576df2d3
+name: Mining Concessions
+description: Boundaries of areas allocated by governments to companies for extraction of minerals.
+
+
+** NEW DATASET **
+ds id: d472171e-e515-4c1f-939e-8d5691e55c2a
+ds on site: https://staging.resourcewatch.org/data/explore/d472171e-e515-4c1f-939e-8d5691e55c2a
+
+~ layers ~
+
+layer id: 70ea28f9-7e35-421e-a504-56b7a2e1ac1c
+name: Mangrove Forests
+description: Mangrove Forests in 2010.
+
+
+** NEW DATASET **
+ds id: 894f43a8-ce8e-43a5-a4c7-fa80faa43d63
+ds on site: https://staging.resourcewatch.org/data/explore/894f43a8-ce8e-43a5-a4c7-fa80faa43d63
+
+~ layers ~
+
+layer id: 82fb5071-747f-4e82-bb20-c28f76dff95f
+name: Social and Economic Dependence on Coral Reefs
+description: The Reef Dependence index is based on the following inputs: reef-associated population, reef fisheries employment, reef-associated exports, nutritional dependence on fish and seafood, reef-associated tourism, and shoreline protection.
+
+layer id: 611b5dd5-8a0d-44be-8f89-35ce2b8c8280
+name: Vulnerability to Reef Loss
+description: The Social Vulnerability index is based on the combination of the Reef Dependence index, Adaptive Capacity index, and exposure to reef threats (i.e., the Reefs at Risk integrated local threat index).
+
+layer id: 99a752c1-1cf9-4561-ac69-ac00d7331fd0
+name: Adaptation Capacity to Reef Loss
+description: An adaptive capacity index to reef loss based on the following inputs: economic resources, education, health (life expectancy), governance, access to markets, and agricultural resources
+
+
+** NEW DATASET **
+ds id: 3c82c421-8964-444e-86f2-df800174d8b9
+ds on site: https://staging.resourcewatch.org/data/explore/3c82c421-8964-444e-86f2-df800174d8b9
+
+~ layers ~
+
+layer id: 24808bb8-1dbf-450e-8f6b-c090533f5d14
+name: Cumulative Climate Impacts on Marine Ecosystems
+description: Index of cumulative impact of equally weighted changes in sea surface temperature (1980–2014), chlorophyll (1979–2014), and ocean currents (1980–2014). Colors represent a dimensionless index of global impact (Cumulative Impact Index), ranging from 0 (no change) to 1 (maximum change), highlighting marine areas that have undergone the largest changes in their environmental conditions.
+
+
+** NEW DATASET **
+ds id: 3c2fad43-debb-4351-b9d6-b81b71317f8d
+ds on site: https://staging.resourcewatch.org/data/explore/3c2fad43-debb-4351-b9d6-b81b71317f8d
+
+~ layers ~
+
+layer id: a25e7895-4a73-4d70-8118-2db44b8041bb
+name: TEST whrc carbon
+description: 
+
+
+** NEW DATASET **
+ds id: 8746e75d-2749-405e-8f3b-0c12097860a1
+ds on site: https://staging.resourcewatch.org/data/explore/8746e75d-2749-405e-8f3b-0c12097860a1
+
+~ layers ~
+
+layer id: db60de7c-6e69-4d35-a1df-29e9acd8e012
+name: US Oil and Chemical Spills (past 30 days)
+description: 
+
+layer id: 5c44a202-a90c-4838-83e4-565a2536bfef
+name: US Oil and Chemical Spills (All)
+description: Information about selected oil spills (and other incidents) where NOAA's Office of Response and Restoration (OR&R) provided scientific support for the incident response. It contains information on thousands of historical incidents spanning 30 years of OR&R spill response from 1957 to the present.
+
+
+** NEW DATASET **
+ds id: a86d906d-9862-4783-9e30-cdb68cd808b8
+ds on site: https://staging.resourcewatch.org/data/explore/a86d906d-9862-4783-9e30-cdb68cd808b8
+
+~ layers ~
+
+layer id: 2a694289-fec9-4bfe-a6d2-56c3864ec349
+name: Capacity (MW) and Fuel Type
+description: 
+
+layer id: 155968b5-7c59-4065-9e3a-0a81d52d50de
+name: Fuel Type
+description: 
+
+layer id: 5868a183-0f99-4c6d-93d1-8ddb7b4f2784
+name: Power Plant Capacity (MW)
+description: 
+
+
+** NEW DATASET **
+ds id: 5c615e0f-f5e7-4e02-a9e0-0248253a46a7
+ds on site: https://staging.resourcewatch.org/data/explore/5c615e0f-f5e7-4e02-a9e0-0248253a46a7
+
+~ layers ~
+
+layer id: c34a93ee-58b5-48f4-9d23-31f3d790ac16
+name: test glad
+description: 
+
+
+** NEW DATASET **
+ds id: 55914c68-508c-4125-9c11-f95ca89285fb
+ds on site: https://staging.resourcewatch.org/data/explore/55914c68-508c-4125-9c11-f95ca89285fb
+
+~ layers ~
+
+layer id: 69b32b83-df6c-4ecd-a39f-44066912ab81
+name: test forma 2016 v1
+description: 
+
+layer id: 9c104749-a9a9-495c-9c40-9f2fc010ce4b
+name: forma 2016 v2
+description: 
+
+layer id: 59877aa4-d95e-4a4d-b22f-cc7c16f62f79
+name: forma 2016 v3
+description: 
+
+
+** NEW DATASET **
+ds id: bb80312e-b514-48ad-9252-336408603591
+ds on site: https://staging.resourcewatch.org/data/explore/bb80312e-b514-48ad-9252-336408603591
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 3ee0074f-d465-48c5-a1f6-391e7937c813
+ds on site: https://staging.resourcewatch.org/data/explore/3ee0074f-d465-48c5-a1f6-391e7937c813
+
+~ layers ~
+
+layer id: 2c64af1a-cb1b-48d3-a4c9-eff889d908c5
+name: Puerto Rico PPP Ports
+description: These ports are requested to be rebuilt by the Public Private Partnership Authority of Puerto Rico
+
+
+** NEW DATASET **
+ds id: 8377daba-f607-4dca-8a07-e1c3486bdd46
+ds on site: https://staging.resourcewatch.org/data/explore/8377daba-f607-4dca-8a07-e1c3486bdd46
+
+~ layers ~
+
+layer id: b83c322d-b8e2-47c1-98ef-17329cabce1d
+name: Past Day Smoke Plume Concentration
+description: Significant smoke plumes that are detected by the satellites are outlined by an analyst as well with an estimate of the smoke concentration provided. Data shown is from the previous day.
+
+
+** NEW DATASET **
+ds id: 18d864e3-5f11-4ccb-8bd0-a03b46008e64
+ds on site: https://staging.resourcewatch.org/data/explore/18d864e3-5f11-4ccb-8bd0-a03b46008e64
+
+~ layers ~
+
+layer id: b9db2463-64f5-4ff4-af2b-d5caf89735ea
+name: 2014-2017 Number of Migrant Deaths
+description: Deaths along migratory routes worldwide from 2014 to the present.
+
+
+** NEW DATASET **
+ds id: aaa374de-a5ce-4739-a772-7a72cabb60df
+ds on site: https://staging.resourcewatch.org/data/explore/aaa374de-a5ce-4739-a772-7a72cabb60df
+
+~ layers ~
+
+layer id: 28f56923-8375-40c7-bfe3-9ddcea22cee0
+name: Oil and Chemical Spills
+description: Information about selected oil spills (and other incidents) where NOAA's Office of Response and Restoration (OR&R) provided scientific support for the incident response. It contains information on thousands of historical incidents spanning 30 years of OR&R spill response from 1957 to the present.
+
+
+** NEW DATASET **
+ds id: a9e33aad-eece-4453-8279-31c4b4e0583f
+ds on site: https://staging.resourcewatch.org/data/explore/a9e33aad-eece-4453-8279-31c4b4e0583f
+
+~ layers ~
+
+layer id: f3ee5110-083d-4a94-8b5d-af087d2b18aa
+name: Active Fires (MODIS) (Kelvin)
+description: Fires collected by the MODIS satellite every 7 days displayed by brightness measured in Kelvin.
+
+
+** NEW DATASET **
+ds id: de434b90-a0c4-40b9-a6bd-eee6f0b8cfa3
+ds on site: https://staging.resourcewatch.org/data/explore/de434b90-a0c4-40b9-a6bd-eee6f0b8cfa3
+
+~ layers ~
+
+layer id: cb26b383-3bf7-40cf-a23f-6123f78883ab
+name: Extant
+description: 
+
+
+** NEW DATASET **
+ds id: 63f34231-7369-4622-81f1-28a144d17835
+ds on site: https://staging.resourcewatch.org/data/explore/63f34231-7369-4622-81f1-28a144d17835
+
+~ layers ~
+
+layer id: 5939b34f-42bb-4861-bd4a-308a0ae7a1d6
+name: Earthquakes Over the Past 30 days (Magnitude)
+description: Significant earthquakes registered over the past 30 days.
+
+
+** NEW DATASET **
+ds id: 82fdd094-8ae0-4ef7-9bf3-65650e91f0d3
+ds on site: https://staging.resourcewatch.org/data/explore/82fdd094-8ae0-4ef7-9bf3-65650e91f0d3
+
+~ layers ~
+
+layer id: bf15bbee-88ef-4003-b5ba-e34c33963c07
+name: Top 25 Vulnerable US Cities to Climate Change in 2050
+description: 
+
+layer id: 8fdae02d-ce91-40bb-9612-0e6eb16c23ca
+name: Bubble Map Test
+description: 
+
+
+** NEW DATASET **
+ds id: fd49c7ad-db12-4c1e-b74d-adef17160f50
+ds on site: https://staging.resourcewatch.org/data/explore/fd49c7ad-db12-4c1e-b74d-adef17160f50
+
+~ layers ~
+
+layer id: 6227a88c-5be8-4844-99d0-9883e0dd8f5d
+name: 2009 Oil Pipelines
+description: A map of global crude oil, natural gas, and petroleum products pipelines as of 2009.
+
+
+** NEW DATASET **
+ds id: 5b5a21ac-0835-43fb-86b9-64b93d472e10
+ds on site: https://staging.resourcewatch.org/data/explore/5b5a21ac-0835-43fb-86b9-64b93d472e10
+
+~ layers ~
+
+layer id: 4b5140a2-28ea-4707-8998-a9d1c32dbf53
+name: 2010 Endangered Species Sites - Alliance for Zero Extinction (AZE)
+description: Global list of sites containing 95% or more of the remaining population of one or more species listed as endangered or critically endangered in 2010.
+
+
+** NEW DATASET **
+ds id: 58b2ddf9-dd0c-4fd5-a97b-4f36c14a4a15
+ds on site: https://staging.resourcewatch.org/data/explore/58b2ddf9-dd0c-4fd5-a97b-4f36c14a4a15
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 6e4d021d-69b7-4e58-b1e8-8370599677e9
+ds on site: https://staging.resourcewatch.org/data/explore/6e4d021d-69b7-4e58-b1e8-8370599677e9
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: a00c3514-94ba-48bd-bf56-a2e65722be34
+ds on site: https://staging.resourcewatch.org/data/explore/a00c3514-94ba-48bd-bf56-a2e65722be34
+
+~ layers ~
+
+layer id: 7cbd8ad3-cb16-4a6c-bca8-c5378528e0bc
+name: Global Croplands
+description: 
+
+
+** NEW DATASET **
+ds id: cbb4b8ac-5227-4ee2-86d4-e7d37dd9552c
+ds on site: https://staging.resourcewatch.org/data/explore/cbb4b8ac-5227-4ee2-86d4-e7d37dd9552c
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 86ff79a5-efcb-443f-b840-189ec5e9adab
+ds on site: https://staging.resourcewatch.org/data/explore/86ff79a5-efcb-443f-b840-189ec5e9adab
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: a224c8b3-7d53-4b7c-885c-73cec5e46c63
+ds on site: https://staging.resourcewatch.org/data/explore/a224c8b3-7d53-4b7c-885c-73cec5e46c63
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: f12800bb-2c2d-4f91-b037-6fbef8356b5a
+ds on site: https://staging.resourcewatch.org/data/explore/f12800bb-2c2d-4f91-b037-6fbef8356b5a
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 2ab7dd99-4807-4918-9bb5-0c5a483cb44c
+ds on site: https://staging.resourcewatch.org/data/explore/2ab7dd99-4807-4918-9bb5-0c5a483cb44c
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 3c12072d-611b-413f-b314-4df0834523ab
+ds on site: https://staging.resourcewatch.org/data/explore/3c12072d-611b-413f-b314-4df0834523ab
+
+~ layers ~
+
+layer id: a638875b-b86b-4975-aece-27735a055d01
+name: 2011 Prioritized Habitat Types
+description: Locations that The Nature Conservatory has prioritized for conservation based on ecoregion assessments displayed by habit type in 2011.
+
+
+** NEW DATASET **
+ds id: 5159fe6f-defd-44d2-9e7d-15665e14deeb
+ds on site: https://staging.resourcewatch.org/data/explore/5159fe6f-defd-44d2-9e7d-15665e14deeb
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 1141cb8d-b58e-4196-b481-80896d95ab4f
+ds on site: https://staging.resourcewatch.org/data/explore/1141cb8d-b58e-4196-b481-80896d95ab4f
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: de452a4c-a55c-464d-9037-8c3e9fe48365
+ds on site: https://staging.resourcewatch.org/data/explore/de452a4c-a55c-464d-9037-8c3e9fe48365
+
+~ layers ~
+
+layer id: dabcca67-037c-4d11-afc4-69559edec4dc
+name: Marine and Terrestrial Protected Areas
+description: Legally protected areas according to various designations (e.g., national parks, state reserves, and wildlife reserves) and managed to achieve conservation objectives.  Updated monthly.
+
+layer id: 4c0e843a-d73d-4f22-827c-3076e6ade95e
+name: Marine and Terrestrial Protected Areas by Category
+description: Legally protected areas by IUCN category according to various designations (e.g., national parks, state reserves, and wildlife reserves) and managed to achieve conservation objectives.  Updated monthly.
+
+
+** NEW DATASET **
+ds id: 4d199e44-6dec-4bdc-8b63-a33f2d3f59f5
+ds on site: https://staging.resourcewatch.org/data/explore/4d199e44-6dec-4bdc-8b63-a33f2d3f59f5
+
+~ layers ~
+
+layer id: e66be07f-33c6-4b3b-a856-b0533a5f7484
+name: December Fires (Kelvin)
+description: Fires collected by the MODIS satellite for December 10-31 displayed by brightness measured in Kelvin.
+
+
+** NEW DATASET **
+ds id: ba4befc7-8816-4bcf-bee3-d4c965e5bf6c
+ds on site: https://staging.resourcewatch.org/data/explore/ba4befc7-8816-4bcf-bee3-d4c965e5bf6c
+
+~ layers ~
+
+layer id: 26e9285d-365c-486e-a313-aea700750dba
+name: California Counties
+description: 
+
+
+** NEW DATASET **
+ds id: e828ca6e-658e-422a-bfa7-8d6dbd20c286
+ds on site: https://staging.resourcewatch.org/data/explore/e828ca6e-658e-422a-bfa7-8d6dbd20c286
+
+~ layers ~
+
+layer id: 0b0f1d45-147f-4f83-9820-7ff6cf04249f
+name: California January Landslides
+description: 
+
+
+** NEW DATASET **
+ds id: 582a19c7-8cad-43c6-a70a-8156ebf9030b
+ds on site: https://staging.resourcewatch.org/data/explore/582a19c7-8cad-43c6-a70a-8156ebf9030b
+
+~ layers ~
+
+layer id: ca9e7892-0e0f-4253-b30e-66f38f16ef57
+name: January 10th Landslide Risk
+description: 
+
+
+** NEW DATASET **
+ds id: 11278cb6-b298-49a1-bf71-f1e269f40758
+ds on site: https://staging.resourcewatch.org/data/explore/11278cb6-b298-49a1-bf71-f1e269f40758
+
+~ layers ~
+
+layer id: 9d3ef845-93a1-47a0-b26a-c124b8a6ff2b
+name: 2015 Gender Inequality Index
+description: A measure of gender inequality in health, empowerment and economic status for 159 countries in 2015. It ranges between 0 and 1 and higher values indicate higher inequalities.
+
+
+** NEW DATASET **
+ds id: 2c2dc0bc-f83d-4b90-949c-93088145448e
+ds on site: https://staging.resourcewatch.org/data/explore/2c2dc0bc-f83d-4b90-949c-93088145448e
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: e663eb09-04de-4f39-b871-35c6c2ed10b5
+ds on site: https://staging.resourcewatch.org/data/explore/e663eb09-04de-4f39-b871-35c6c2ed10b5
+
+~ layers ~
+
+layer id: 5b19ee01-1de5-4f65-ad5d-b7d58e487cc5
+name: GLAD Tree Cover Loss
+description: 
+
+
+** NEW DATASET **
+ds id: e8f5b4e8-454e-488d-8b4a-b60ad02bce36
+ds on site: https://staging.resourcewatch.org/data/explore/e8f5b4e8-454e-488d-8b4a-b60ad02bce36
+
+~ layers ~
+
+layer id: 17b9bf19-e116-4a22-b71a-fe67ce7fd552
+name: Brazilian Amazon Deforestation Alerts
+description: Zones with deforestation alerts during last 90 days.
+
+
+** NEW DATASET **
+ds id: 6d3163f5-4e08-4830-84f1-2c5d76570a82
+ds on site: https://staging.resourcewatch.org/data/explore/6d3163f5-4e08-4830-84f1-2c5d76570a82
+
+~ layers ~
+
+layer id: 0b53f290-6f77-4d91-8e09-a0c090555fe5
+name: 2015 Population Exposed to Unhealthy Levels of PM2.5 (%)
+description: Percentage of population exposed to ambient concentrations of PM2.5 that exceed the WHO guideline value in 2015.
+
+
+** NEW DATASET **
+ds id: 86fff033-dd27-41be-be64-2ec8983b3db1
+ds on site: https://staging.resourcewatch.org/data/explore/86fff033-dd27-41be-be64-2ec8983b3db1
+
+~ layers ~
+
+layer id: c4b5b246-1dcf-492f-8352-278e737ffdf7
+name: Mean Baseline Water Stress (Total Withdrawals)
+description: Mean baseline water stress for withdrawals from all sectors.
+
+
+** NEW DATASET **
+ds id: c53a195f-d5f0-4acc-b1be-b773420a6606
+ds on site: https://staging.resourcewatch.org/data/explore/c53a195f-d5f0-4acc-b1be-b773420a6606
+
+~ layers ~
+
+layer id: aaa43ff3-1d47-42eb-8997-58124a7df34e
+name: 2010 Annual Affected GDP Due to 10-Year Floods (USD, billion)
+description: Estimated annualized GDP affected by 10-year inland flooding under current socio-economic and hydrological scenarios (2010).
+
+layer id: 0cafbc02-358c-46f6-a8ae-1ddc93845b17
+name: 2030 Scenario A Annual Affected GDP Due to 10-Year Floods (USD, billion)
+description: Estimated annualized GDP affected by 10-year inland flooding in 2030 under the RCP4.5 and SSP2 scenarios.
+
+layer id: 2ac04a5c-a4a3-4254-9a84-f0152bcfe8c5
+name: 2030 Scenario B Annual Affected GDP Due to 10-Year Floods (USD, billion)
+description: Estimated annualized GDP affected by 10-year inland flooding in 2030 under the RCP8.5 and SSP2 scenarios.
+
+layer id: 2c0c23b3-a9db-4c55-8969-53c40af336ad
+name: 2030 Scenario C Annual Affected GDP Due to 10-Year Floods (USD, billion)
+description: Estimated annualized GDP affected by 10-year inland flooding in 2030 under the RCP8.5 and SSP3 scenarios.
+
+
+** NEW DATASET **
+ds id: 9948b8b8-2aaa-4146-be1e-91da5a1aaa88
+ds on site: https://staging.resourcewatch.org/data/explore/9948b8b8-2aaa-4146-be1e-91da5a1aaa88
+
+~ layers ~
+
+layer id: 817001af-835a-4827-afec-e2333bf2408e
+name: 2020 Projected Change in Water Stress (Business As Usual)
+description: Projected change in water stress from baseline to 2020. The "business as usual" scenario (SSP2 RCP8.5) represents a world with stable economic development and steadily rising global carbon emissions.
+
+layer id: 197f6c1b-2593-4eef-aa71-59066f84f8c4
+name: 2030 Projected Change in Water Stress (Business As Usual)
+description: Projected change in water stress from baseline to 2030. The "business as usual" scenario (SSP2 RCP8.5) represents a world with stable economic development and steadily rising global carbon emissions.
+
+layer id: 896fc9d0-a15c-4e30-814a-04ab0a3e53d3
+name: 2040 Projected Change in Water Stress (Business As Usual)
+description: Projected change in water stress from baseline to 2040. The "business as usual" scenario (SSP2 RCP8.5) represents a world with stable economic development and steadily rising global carbon emissions.
+
+
+** NEW DATASET **
+ds id: cd9817ed-fc41-4936-b2d6-d28d50c16b6f
+ds on site: https://staging.resourcewatch.org/data/explore/cd9817ed-fc41-4936-b2d6-d28d50c16b6f
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 1b97e47e-ca18-4e50-9aae-a2853acca3f0
+ds on site: https://staging.resourcewatch.org/data/explore/1b97e47e-ca18-4e50-9aae-a2853acca3f0
+
+~ layers ~
+
+layer id: 14bfb1ca-a672-4bec-8060-b8e51a5f21bc
+name: 2015 Urban Access to an Improved Water Source (%)
+description: The percentage of the urban population with access to an improved water source in 2015.
+
+layer id: b60ed2aa-3906-4d48-ae86-6ed1c8356452
+name: 2015 Rural Access to an Improved Water Source (%)
+description: The percentage of the rural population with access to an improved water source in 2015.
+
+layer id: 3b38bbec-925d-49a0-8a13-95af8a9d7973
+name: 2015 National Access to an Improved Water Source (%)
+description: The percentage of the total population with access to an improved water source in 2015.
+
+
+** NEW DATASET **
+ds id: 23dec728-53a8-469a-91d4-8f706a12a51d
+ds on site: https://staging.resourcewatch.org/data/explore/23dec728-53a8-469a-91d4-8f706a12a51d
+
+~ layers ~
+
+layer id: 9725bc4f-14aa-45bd-8213-07a3c8ea2ff0
+name: 2016 Conflict and Protest Events in African and Asian States
+description: Locations of conflict and protest events in Africa and Asia in 2016.
+
+layer id: c8a5e67c-2132-4e89-a587-6e37db1a595e
+name: 2015 Conflict and Protest Events in  African and Asian States
+description: Locations of conflict and protest events in Africa and Asia in 2015.
+
+layer id: 1c65d4f0-eb67-446b-b3f8-95d4f64b59e1
+name: 2014 Conflict and Protest Events in  African States
+description: Locations of conflict and protest events in Africa in 2014.
+
+layer id: 8c11a365-f328-4a59-8b23-3014e183e777
+name: 2013 Conflict and Protest Events in  African States
+description: Locations of conflict and protest events in Africa in 2013.
+
+layer id: 7babbca2-db2e-4af3-a373-b18d5b2cc914
+name: 2012 Conflict and Protest Events in  African States
+description: Locations of conflict and protest events in Africa in 2012.
+
+layer id: 7bc341e7-eda6-454c-894b-1885604ba483
+name: 2011 Conflict and Protest Events in  African States
+description: Locations of conflict and protest events in Africa in 2011.
+
+layer id: 1becbc25-f035-434c-8d47-e29d165b91ef
+name: 2010 Conflict and Protest Events in  African States
+description: Locations of conflict and protest events in Africa in 2010.
+
+layer id: faf97b32-46e9-4c53-9e50-18aa71badb38
+name: 2009 Conflict and Protest Events in  African States
+description: Locations of conflict and protest events in Africa in 2009.
+
+layer id: 00aaf838-48d5-4771-a9fb-1a17c2daa6d8
+name: 2008 Conflict and Protest Events in  African States
+description: Locations of conflict and protest events in Africa in 2009.
+
+layer id: f7756ebc-cf46-45bc-9880-b5b1ebe668de
+name: 2007 Conflict and Protest Events in  African States
+description: Locations of conflict and protest events in Africa in 2007.
+
+layer id: 85d2e643-bc7c-40ec-b8df-4f60110818a2
+name: 2006 Conflict and Protest Events in  African States
+description: Conflict and Protest Events in  African States in 2006.
+
+layer id: 5cf47029-948c-432f-a3da-a60e83fa38bd
+name: Conflict and Protest Events in African and Asian States (past 2 months) TEST
+description: Conflict and protest events in African and Asian states in the past 2 months
+
+
+** NEW DATASET **
+ds id: c17296d6-8629-4769-900b-81d7a7037b1e
+ds on site: https://staging.resourcewatch.org/data/explore/c17296d6-8629-4769-900b-81d7a7037b1e
+
+~ layers ~
+
+layer id: 138bf4d9-f9b1-4632-a4e1-dc4a42f8783a
+name: 2017 Port Connectivity Index - Inbound
+description: The Container Port Connectivity Index (CPCI) combines concepts of economics and network topology to assign inbound-connectivity scores to all ports in this network. A port with a high inbound score can be interpreted as being a good collection point for global goods, and a port with a high outbound score can be interpreted as being a good distribution point for global goods.
+
+layer id: f757e969-b80c-4d9b-a35d-c400aae4affc
+name: 2017 Port Connectivity Index - Outbound
+description: The Container Port Connectivity Index (CPCI) combines concepts of economics and network topology to assign outbound-connectivity scores to all ports in this network. A port with a high inbound score can be interpreted as being a good collection point for global goods, and a port with a high outbound score can be interpreted as being a good distribution point for global goods.
+
+
+** NEW DATASET **
+ds id: e7780d53-ad80-45bd-a271-79615ee97a37
+ds on site: https://staging.resourcewatch.org/data/explore/e7780d53-ad80-45bd-a271-79615ee97a37
+
+~ layers ~
+
+layer id: a1485b2a-5675-4d27-840f-ed1b11e74b9a
+name: 2000-2017 Number of Land Deals
+description: Shows locations of large-scale land acquisitions of 200 ha or more in low- and middle-income countries from 2000 to present.
+
+
+** NEW DATASET **
+ds id: 6c6e70e7-5a19-46f2-9d95-34789fd20adc
+ds on site: https://staging.resourcewatch.org/data/explore/6c6e70e7-5a19-46f2-9d95-34789fd20adc
+
+~ layers ~
+
+layer id: 82f75e59-28a7-42ca-bf8e-32cad194bfae
+name: Female Agricultural Land Owners (%)
+description: Percentage of female agricultural landholders out of total agricultural holders, using the most recently available data from 1990-2012.
+
+
+** NEW DATASET **
+ds id: d3a6b89f-cf5c-40cf-b2b3-ac1c8315c648
+ds on site: https://staging.resourcewatch.org/data/explore/d3a6b89f-cf5c-40cf-b2b3-ac1c8315c648
+
+~ layers ~
+
+layer id: 4415d360-04c0-4822-97d4-937d71e81d0a
+name: 2016 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse.  The higher the index score the closer a state is to failure.
+
+layer id: a69a7802-2967-4487-b0ed-812210721bbe
+name: 2017 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse.  The higher the index score the closer a state is to failure.
+
+layer id: 3f10bd89-2a3a-4d58-af94-dc1bdc93d00a
+name: 2015 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse..  The higher the index score the closer a state is to failure.
+
+layer id: d1afaa3c-42e8-487e-9842-72a808853fc4
+name: 2014 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse. The higher the index score the closer a state is to failure.
+
+layer id: ee3d748f-e175-45fb-8675-a981f6056848
+name: 2013 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse.  The higher the index score the closer a state is to failure.
+
+layer id: 6f542ad0-dc1d-4d29-9e59-8b6a55333f8e
+name: 2012 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse.  The higher the index score the closer a state is to failure.
+
+layer id: 8bc6faa6-ff39-4d51-ab41-6b9fb2d0e748
+name: 2011 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse. The higher the index score the closer a state is to failure.
+
+layer id: ccfa51c1-ae93-40f4-b8f2-66bcd3ddf29c
+name: 2010 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse. The higher the index score the closer a state is to failure.
+
+layer id: c4387391-f962-412e-9188-78cbf2f6a39a
+name: 2009 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse.  The higher the index score the closer a state is to failure.
+
+layer id: b10df2e6-2303-4b37-9e6d-39ffdc0aa650
+name: 2008 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse.  The higher the index score the closer a state is to failure.
+
+layer id: 400f7836-3d79-4f5d-8105-b5175676ebdd
+name: 2007 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse.  The higher the index score the closer a state is to failure.
+
+layer id: 5a4618c5-b487-4226-bbc9-3e5d9a8f14dc
+name: 2006 Fragile States Index
+description: The Fragile States Index measures the vulnerability of states to collapse.  The higher the index score the closer a state is to failure.
+
+
+** NEW DATASET **
+ds id: a7067e9f-fe40-4338-85da-13a6071c76fe
+ds on site: https://staging.resourcewatch.org/data/explore/a7067e9f-fe40-4338-85da-13a6071c76fe
+
+~ layers ~
+
+layer id: df97accd-42e7-44c7-8f42-b17c9a52d9c4
+name: 2017 Freedom Status
+description: The condition of political rights and civil liberties around the world for 195 countries and 14 territories from 1973 to today. Displayed is freedom status: free, partially free, or not free.
+
+
+** NEW DATASET **
+ds id: 05b7c688-09ba-4f33-90ea-185a1039df43
+ds on site: https://staging.resourcewatch.org/data/explore/05b7c688-09ba-4f33-90ea-185a1039df43
+
+~ layers ~
+
+layer id: 3d67aa98-a16c-47aa-a247-a53cbca35d57
+name: 2014 Total Area of Certified Forest (ha, millions)
+description: Area of forests under independently verified forest certification schemes in 2014.
+
+
+** NEW DATASET **
+ds id: 5e87d53c-10d9-419e-a0e6-122e26b064ca
+ds on site: https://staging.resourcewatch.org/data/explore/5e87d53c-10d9-419e-a0e6-122e26b064ca
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 7a551dd8-b59c-4f59-9d50-c92cb61c5799
+ds on site: https://staging.resourcewatch.org/data/explore/7a551dd8-b59c-4f59-9d50-c92cb61c5799
+
+~ layers ~
+
+layer id: 39a78fc6-5dd8-45a7-9db8-aaa52f1f4a8d
+name: 2014 Agricultural Production Value (USD, thousands)
+description: Gross production value of agriculture in 2014 in current USD.
+
+
+** NEW DATASET **
+ds id: 223b936e-06b8-4970-abd9-4f123904d95d
+ds on site: https://staging.resourcewatch.org/data/explore/223b936e-06b8-4970-abd9-4f123904d95d
+
+~ layers ~
+
+layer id: 0ac7bf69-388a-48b0-a869-c3240031c4bf
+name: Acute Food Insecurity
+description: Levels of acute food insecurity in the last year.
+
+layer id: 4727b1ce-217a-4ebd-9018-596b17752226
+name: 2009 October Food Insecurity
+description: Food security experts review the available evidence to determine a food security classification on a scale of 1 to 5, with phase 1 corresponding to minimal food insecurity, and phase 5 corresponding to famine-level food insecurity.  Classifications are typically released 4 times a year, each with a short-term (0-3 months from publication) and medium-term (3-6 months from publication) evaluation of food insecurity at the subnational level.
+
+layer id: b898f1f0-fb8e-40b6-ba39-9cdce7c32c34
+name: 2010 October Food Insecurity
+description: Food security experts review the available evidence to determine a food security classification on a scale of 1 to 5, with phase 1 corresponding to minimal food insecurity, and phase 5 corresponding to famine-level food insecurity.  Classifications are typically released 4 times a year, each with a short-term (0-3 months from publication) and medium-term (3-6 months from publication) evaluation of food insecurity at the subnational level.
+
+layer id: 699062bd-9d77-45f1-a380-b16f8bf8c9d6
+name: 2011 October Food Insecurity
+description: Food security experts review the available evidence to determine a food security classification on a scale of 1 to 5, with phase 1 corresponding to minimal food insecurity, and phase 5 corresponding to famine-level food insecurity.  Classifications are typically released 4 times a year, each with a short-term (0-3 months from publication) and medium-term (3-6 months from publication) evaluation of food insecurity at the subnational level.
+
+layer id: e25191e9-8150-4371-84c3-996e45863911
+name: 2012 October Food Insecurity
+description: Food security experts review the available evidence to determine a food security classification on a scale of 1 to 5, with phase 1 corresponding to minimal food insecurity, and phase 5 corresponding to famine-level food insecurity.  Classifications are typically released 4 times a year, each with a short-term (0-3 months from publication) and medium-term (3-6 months from publication) evaluation of food insecurity at the subnational level.
+
+layer id: 97cec588-0e75-4273-8475-2ac30258a3c2
+name: 2013 October Food Insecurity
+description: Food security experts review the available evidence to determine a food security classification on a scale of 1 to 5, with phase 1 corresponding to minimal food insecurity, and phase 5 corresponding to famine-level food insecurity.  Classifications are typically released 4 times a year, each with a short-term (0-3 months from publication) and medium-term (3-6 months from publication) evaluation of food insecurity at the subnational level.
+
+layer id: 792ea3f1-4af1-4927-8da4-128a970b1316
+name: 2014 October Food Insecurity
+description: Food security experts review the available evidence to determine a food security classification on a scale of 1 to 5, with phase 1 corresponding to minimal food insecurity, and phase 5 corresponding to famine-level food insecurity.  Classifications are typically released 4 times a year, each with a short-term (0-3 months from publication) and medium-term (3-6 months from publication) evaluation of food insecurity at the subnational level.
+
+layer id: a2d56570-b9f9-41b7-adeb-2ebc516033f6
+name: 2015 October Food Insecurity
+description: Food security experts review the available evidence to determine a food security classification on a scale of 1 to 5, with phase 1 corresponding to minimal food insecurity, and phase 5 corresponding to famine-level food insecurity.  Classifications are typically released 4 times a year, each with a short-term (0-3 months from publication) and medium-term (3-6 months from publication) evaluation of food insecurity at the subnational level.
+
+
+** NEW DATASET **
+ds id: 25eebe25-aaf2-48fc-ab7b-186d7498f393
+ds on site: https://staging.resourcewatch.org/data/explore/25eebe25-aaf2-48fc-ab7b-186d7498f393
+
+~ layers ~
+
+layer id: 1f8090c0-6594-45e2-b1df-1cbed74f12a8
+name: Political Violence Risk Assessment
+description: Risk score on a country level indicating the likelihood of civil war onset during the next 30 days, updated daily. Both structural indicators and dynamic, event-based variables are used in regression.  The higher the value, the more at risk of civil war.
+
+
+** NEW DATASET **
+ds id: 33156582-1d90-48d7-9db8-17330cae3afc
+ds on site: https://staging.resourcewatch.org/data/explore/33156582-1d90-48d7-9db8-17330cae3afc
+
+~ layers ~
+
+layer id: ace297ee-4372-4aeb-a757-1e57b0878291
+name: South America
+description: 
+
+layer id: 3163a4df-a8f2-4d79-b75d-df053d5838a9
+name: South America try 2
+description: 
+
+layer id: bd387749-c0c9-441c-8188-5b38d812f235
+name: South America try 3
+description: 
+
+layer id: db597954-9ec3-4b59-b60d-ac61e6e21ed2
+name: South America try 4
+description: 
+
+layer id: cfbd6f03-443d-4d8f-8169-e957dd2f1d15
+name: test_wms
+description: 
+
+
+** NEW DATASET **
+ds id: ccfb322a-20aa-4132-b58b-0f76acec8f5a
+ds on site: https://staging.resourcewatch.org/data/explore/ccfb322a-20aa-4132-b58b-0f76acec8f5a
+
+~ layers ~
+
+layer id: 3b65e029-e366-4e12-a2ad-0361e3d44b61
+name: 2014 Non-CO₂ Agricultural Emissions (Gt CO₂e)
+description: Gigatonnes of CO₂ equivalent emissions from non-CO₂ greenhouse gases (methane and nitrous oxide) produced from agricultural activities in 2014.
+
+
+** NEW DATASET **
+ds id: 1d6c6bcc-7787-4b9c-84bb-25a185c124dc
+ds on site: https://staging.resourcewatch.org/data/explore/1d6c6bcc-7787-4b9c-84bb-25a185c124dc
+
+~ layers ~
+
+layer id: 3af5af8d-045c-4e09-8374-e2fc718d2075
+name: 2015 Clean Energy Investment Potential Score
+description: Countries are scored based on their levels of activity and the environments they create to attract further clean energy investment in 2015. Higher scores indicate higher investment potential.
+
+
+** NEW DATASET **
+ds id: 75061411-3afd-442f-b7d6-7607f97f639b
+ds on site: https://staging.resourcewatch.org/data/explore/75061411-3afd-442f-b7d6-7607f97f639b
+
+~ layers ~
+
+layer id: d5c3e961-9169-4923-b689-354b0aac10ca
+name: 2015 Energy Facility Emissions (metric tons of CO₂ equivalent)
+description: Greenhouse gas emissions data for large emitters, facilities that inject CO₂ underground, and suppliers in the United States for 2015. Emissions are measured in metric tons of carbon dioxide equivalent.
+
+
+** NEW DATASET **
+ds id: 33a41780-fd0c-4989-90b8-2c76a127224c
+ds on site: https://staging.resourcewatch.org/data/explore/33a41780-fd0c-4989-90b8-2c76a127224c
+
+~ layers ~
+
+layer id: a72fc4f9-5bb5-439a-95e8-530cfa7828e7
+name: Shale Basins
+description: Oil and gas plays and unconventional well locations.
+
+
+** NEW DATASET **
+ds id: 80c31f61-6e12-47a0-865d-f33a48bfdebb
+ds on site: https://staging.resourcewatch.org/data/explore/80c31f61-6e12-47a0-865d-f33a48bfdebb
+
+~ layers ~
+
+layer id: 083fc14d-99c2-40ec-b6ef-efa5d57a0832
+name: Geothermal Energy Investments - Contributions by MDBs and CIFs (USD, millions)
+description: Contribution to the total project cost by organizations in millions of US dollars.
+
+
+** NEW DATASET **
+ds id: 6f19982e-8c27-45ae-936d-2c9d5b2bd6a6
+ds on site: https://staging.resourcewatch.org/data/explore/6f19982e-8c27-45ae-936d-2c9d5b2bd6a6
+
+~ layers ~
+
+layer id: 50ef9f99-ddca-46b9-bb69-690f0b2ced88
+name: Landslide Hazard Alerts
+description: Landslide warnings updated every 30 minutes with a latency of 4 hours based on landfall-inducing precipitation on susceptible land.
+
+
+** NEW DATASET **
+ds id: a119aac3-81c7-4f8f-adb6-cca5449e9b6d
+ds on site: https://staging.resourcewatch.org/data/explore/a119aac3-81c7-4f8f-adb6-cca5449e9b6d
+
+~ layers ~
+
+layer id: 667ae321-649e-4caa-b761-35e370c776b0
+name: Weekly Volcano Report
+description: Volcanoes with activity registered over the past 7 days.
+
+
+** NEW DATASET **
+ds id: 62c988a7-1e4d-418e-87bf-a743e24209e8
+ds on site: https://staging.resourcewatch.org/data/explore/62c988a7-1e4d-418e-87bf-a743e24209e8
+
+~ layers ~
+
+layer id: c2bc2452-8ac9-475c-b72c-4c604b4d5c54
+name: Nominal Rate of Protection (NRP) (%)
+description: The Nominal Rate of Protection measures the extent to which a set of agricultural policies affects the market price of a commodity. Latest available year (between 2005-2015) for each country is displayed.
+
+
+** NEW DATASET **
+ds id: f3fa9e56-78ea-4539-a0b8-6c0ffac6afc7
+ds on site: https://staging.resourcewatch.org/data/explore/f3fa9e56-78ea-4539-a0b8-6c0ffac6afc7
+
+~ layers ~
+
+layer id: dc6a9a3e-29bd-499d-aa4e-61a42f2d53ac
+name: Palm Oil Mills
+description: Palm oil mill locations.
+
+
+** NEW DATASET **
+ds id: 83de627f-524b-4162-a10c-384dc3e8107a
+ds on site: https://staging.resourcewatch.org/data/explore/83de627f-524b-4162-a10c-384dc3e8107a
+
+~ layers ~
+
+layer id: a63ed595-2dcd-45c7-a081-ca573d19efda
+name: Wood Fiber Concessions (ha)
+description: Area in hectares allocated by governments to private companies for tree plantations for production of timber and wood pulp for paper and paper products.
+
+
+** NEW DATASET **
+ds id: 6e05a9e8-ba07-4e6f-8337-31c5362d07fe
+ds on site: https://staging.resourcewatch.org/data/explore/6e05a9e8-ba07-4e6f-8337-31c5362d07fe
+
+~ layers ~
+
+layer id: 02ec6bbc-aa8f-4436-95b4-681bca1b3515
+name: Oil Palm Concessions (ha)
+description: Areas in hectares allocated by governments to companies for oil palm plantations.
+
+
+** NEW DATASET **
+ds id: 20aead6e-fef9-41c7-92c8-ea00edcae077
+ds on site: https://staging.resourcewatch.org/data/explore/20aead6e-fef9-41c7-92c8-ea00edcae077
+
+~ layers ~
+
+layer id: 84698937-429c-4141-8752-8d8f36a7e98c
+name: Tiger Conservation Landscapes and Corridors
+description: These three layers show the location of tiger conservation landscapes, Tx2 tiger conservation landscapes, and Terai Arc landscape corridors.
+
+
+** NEW DATASET **
+ds id: 99e271da-c33f-4062-b3f9-5e1c5de10e33
+ds on site: https://staging.resourcewatch.org/data/explore/99e271da-c33f-4062-b3f9-5e1c5de10e33
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 8ee88f34-db15-4711-a76d-bf82dbfcffed
+ds on site: https://staging.resourcewatch.org/data/explore/8ee88f34-db15-4711-a76d-bf82dbfcffed
+
+~ layers ~
+
+layer id: a2eccfd8-de7e-4fb8-93c4-22f119994f3e
+name: Most Recent 0-3 month forecast
+description: Most recent 4-8 month food security classifications
+
+layer id: c21f8634-78c4-4880-a979-5a0a404547b4
+name: Most Recent 4-7 month forecast
+description: 
+
+layer id: 0743e06d-49a7-4ca4-aad8-7a16b666a44b
+name: Most Recent Current Status
+description: 
+
+
+** NEW DATASET **
+ds id: bb49f49f-c7e9-4c7f-bc6e-094f42a4a45a
+ds on site: https://staging.resourcewatch.org/data/explore/bb49f49f-c7e9-4c7f-bc6e-094f42a4a45a
+
+~ layers ~
+
+layer id: ddeafee9-c3c1-4bed-a769-b1a27839db76
+name: 2016 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2016. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: 81efedd3-5dbd-4d31-bae2-aa997ad3d5ed
+name: 2015 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2015. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: 2102e8d5-e119-4ad4-88be-1233937a3a37
+name: 2014 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2014. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: 0c7f4aa5-e276-4495-90bb-73a7a7d4b99e
+name: 2013 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2013. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: ce2b3045-2698-415a-9cc6-f748a201395a
+name: 2012 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2012. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: f6cd2838-78c7-45fb-bb11-261ca7123520
+name: 2011 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2011. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: 5b7fa424-66b1-4575-b721-15f633a95867
+name: 2010 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2010. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: 22d5028b-74ce-4257-8eb6-18a5af1336f9
+name: 2009 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2009. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: 9f0d1235-8dae-4cfb-ae48-2f622c778772
+name: 2008 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2008. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: 88664a2e-35cd-42f1-bf69-1d235f774757
+name: 2007 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2007. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+layer id: 1fa0325b-7f66-459c-8183-1af623030c25
+name: 2006 Organized Violence Events (deaths)
+description: Violent conflict events that occurred in 2006. An "event" is defined by the authors as "an incident where armed force was by an organized actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date”.
+
+
+** NEW DATASET **
+ds id: c17fab24-f71a-4c3e-bb87-6b753a944e6b
+ds on site: https://staging.resourcewatch.org/data/explore/c17fab24-f71a-4c3e-bb87-6b753a944e6b
+
+~ layers ~
+
+layer id: 40ece429-a66a-4e20-9ba5-d6c514b7908e
+name: BAR Scale Score of Most Recent Event
+description: Level of intensity of conflict or cooperation related to most recent water events in each country-basin unit on a scale of -7 to +7.  Greater value indicates greater cooperation.
+
+
+** NEW DATASET **
+ds id: 5e69cfac-1f68-4864-a19a-3c1bdb180100
+ds on site: https://staging.resourcewatch.org/data/explore/5e69cfac-1f68-4864-a19a-3c1bdb180100
+
+~ layers ~
+
+layer id: e0b7dd72-4657-4852-86fe-9d7a44a34c66
+name: 2016 Internally Displaced People due to Conflict
+description: Country-level estimates of the number of people currently considered internally displaced persons (IDPs) due to violence and conflict in 2016.
+
+layer id: 7efa78e0-47f4-4468-8a00-dfad38812e9b
+name: 2016 Internally Displaced People due to Natural Disasters
+description: Country-level estimates of the number of people currently considered internally displaced persons (IDPs) due to sudden-onset natural disasters in 2016.
+
+
+** NEW DATASET **
+ds id: 9eede25c-ec1c-4f62-b237-96c99f0c3a4c
+ds on site: https://staging.resourcewatch.org/data/explore/9eede25c-ec1c-4f62-b237-96c99f0c3a4c
+
+~ layers ~
+
+layer id: c436b945-d2bb-4200-80b3-8defebc5e57d
+name: Impaired Waters - Flagged for TMDL Restoration - Points
+description: Waters identified as impaired from the current approved Clean Water Act 303(d) lists submitted by states. A TMDL (Total Maximum Daily Load) establishes the maximum amount of a pollutant allowed in a waterbody and serves as the starting point or planning tool for restoring water quality.
+
+layer id: b80d872e-b02c-4c56-8d70-5cbc5c66ee27
+name: Impaired Waters - Flagged for TMDL Restoration - Lines
+description: Waters identified as impaired from the current approved Clean Water Act 303(d) lists submitted by states. A TMDL (Total Maximum Daily Load) establishes the maximum amount of a pollutant allowed in a waterbody and serves as the starting point or planning tool for restoring water quality.
+
+layer id: 29cdfe05-908b-426a-b834-c7902f854960
+name: Impaired Waters - Flagged for TMDL Restoration - Polygons
+description: Waters identified as impaired from the current approved Clean Water Act 303(d) lists submitted by states. A TMDL (Total Maximum Daily Load) establishes the maximum amount of a pollutant allowed in a waterbody and serves as the starting point or planning tool for restoring water quality.
+
+
+** NEW DATASET **
+ds id: b0f859ce-f13b-462e-9063-ebc68ed88420
+ds on site: https://staging.resourcewatch.org/data/explore/b0f859ce-f13b-462e-9063-ebc68ed88420
+
+~ layers ~
+
+layer id: dd34daf7-f73a-4cb4-b0a2-73d9a7b27e22
+name: Data for CS beginning in 2017-10
+description: Start date = 2017-10, end date = 2017-10
+
+layer id: 8efc281a-e53a-40ae-9af0-fb53635b5311
+name: Data for CS beginning in 2017-06
+description: Start date = 2017-06, end date = 2017-06
+
+layer id: 87da6db1-0c77-44a3-8d65-bcf5b87a4aa8
+name: Data for CS beginning in 2017-02
+description: Start date = 2017-02, end date = 2017-02
+
+
+** NEW DATASET **
+ds id: 8bc79a36-d77e-4ee3-b9bc-c77146cfc503
+ds on site: https://staging.resourcewatch.org/data/explore/8bc79a36-d77e-4ee3-b9bc-c77146cfc503
+
+~ layers ~
+
+layer id: ce22f648-c965-4458-a801-2c58a4f69fac
+name: Children Under 5 Severely Wasting (%)
+description: Estimations of child malnutrition by country - severely wasting. Wasting, or acute malnutrition, is the result of recent rapid weight loss or the failure to gain weight. A child who is moderately or severely wasted has an increased risk of death, but treatment is possible. Severely wasting is defined as the percentage of children aged 0–59 months who are below minus three standard deviations from median weight-for-height of the WHO Child Growth Standards. Latest data available varies by country from 1994-2016.
+
+layer id: bea1db0e-b99d-454b-bddd-c7cabd2e6b27
+name: Children Under 5 Stunting (%)
+description: Estimations of child malnutrition by country - stunting. Stunting refers to a child who is too short for his or her age. Stunting is the failure to grow both physically and cognitively and is the result of chronic or recurrent malnutrition. The devastating effects of stunting can last a lifetime. Stunting is defined as the percentage of children aged 0–59 months who are below minus two standard deviations from median height-for-age of the WHO Child Growth Standards. Latest data available varies by country from 1994 to 2016.
+
+layer id: 55721450-ce51-4f60-b7c8-416d74a1ad6c
+name: Children Under 5 Underweight (%)
+description: Estimations of child malnutrition by country - underweight. Underweight is defined as  the percentage of children aged 0–59 months (5 years) who are below minus two standard deviations from median weight-for-age of the World Health Organization (WHO) Child Growth Standards. Latest data available varies by country from 1994 to 2016.
+
+layer id: 29edd41b-8f0b-43b5-a0fe-17cd68f8832d
+name: Children Under 5 Wasting (%)
+description: Estimations of child malnutrition by country - wasting. Wasting refers to a child who is too thin for his or her height. Wasting, or acute malnutrition, is the result of recent rapid weight loss or the failure to gain weight. A child who is moderately or severely wasted has an increased risk of death, but treatment is possible. Wasting is defined as the percentage of children aged 0–59  months (5 years) who are below minus two standard deviations from median weight-for-height of the WHO Child Growth Standards. Latest data available varies by country from 1994 to 2016.
+
+layer id: 65b778e8-6050-49ad-b9d1-dc4cb7c1ae59
+name: Children Under 5 Overweight (%)
+description: Estimations of child malnutrition by country - overweight. Overweight refers to a child who is too heavy for his or her height. This form of malnutrition results from expending too few calories for the amount consumed from food and drinks and increases the risk of noncommunicable diseases later in life. Overweight is defined as the percentage of children aged 0-59 months (5 years) who are above two standard deviations from median weight-for-height of the WHO Child Growth Standards. Latest data available varies by country from 1994 to 2016.
+
+
+** NEW DATASET **
+ds id: 33bed1fb-9261-41bf-8b50-127a4d0c80c5
+ds on site: https://staging.resourcewatch.org/data/explore/33bed1fb-9261-41bf-8b50-127a4d0c80c5
+
+~ layers ~
+
+layer id: 6e204497-9291-41bb-bfe1-4b39e155a8a9
+name: 2008 Freshwater Ecoregions
+description: A classification of freshwater ecoregions and major habitat types in 2008.
+
+
+** NEW DATASET **
+ds id: 3ac5a895-b8ab-4480-b7eb-0fbb452ea76f
+ds on site: https://staging.resourcewatch.org/data/explore/3ac5a895-b8ab-4480-b7eb-0fbb452ea76f
+
+~ layers ~
+
+layer id: 99d66799-cce3-47f6-a7c2-9273321d7d0f
+name: Land Rights
+description: Boundaries of areas over which indigenous peoples or local communities enjoy rights to the land and certain resources. Dates of data displayed vary by country.
+
+
+** NEW DATASET **
+ds id: 7bcf2f48-8ebd-4900-a485-57a75f9f4e85
+ds on site: https://staging.resourcewatch.org/data/explore/7bcf2f48-8ebd-4900-a485-57a75f9f4e85
+
+~ layers ~
+
+layer id: 51aad76b-e884-44e0-82a4-d3b2f87a052d
+name: Managed Forest Concessions
+description: Boundaries of forested areas allocated by governments to companies for harvesting timber and other wood products.
+
+
+** NEW DATASET **
+ds id: 995ec4fe-b3cc-4cf4-bd48-b89d4e3ea072
+ds on site: https://staging.resourcewatch.org/data/explore/995ec4fe-b3cc-4cf4-bd48-b89d4e3ea072
+
+~ layers ~
+
+layer id: a349e814-c600-495f-9cbf-cdb99b526973
+name: 2010 Rural Population, Coastal (%)
+description: The percentage of the total  rural population that lives within 100km of the coast, as of 2010.
+
+layer id: 2e533124-3258-4ec2-a777-beed1712d1a0
+name: 2010 Urban Population, Coastal (%)
+description: The percentage of the total  urban population that lives within 100km of the coast, as of 2010.
+
+
+** NEW DATASET **
+ds id: 20c70a51-4ddf-4f6c-ad2c-1a6729b95fa4
+ds on site: https://staging.resourcewatch.org/data/explore/20c70a51-4ddf-4f6c-ad2c-1a6729b95fa4
+
+~ layers ~
+
+layer id: ad8ba2b5-c92a-4516-9b55-31534db0db25
+name: 1963-2012 Coral Bleaching
+description: Global observations of coral bleaching from 1963 to 2012.
+
+layer id: 1aa25319-31ee-422a-bfcc-a31514e826a9
+name: 1970-2010 Coral Disease
+description: Global observations of coral disease from 1970 to 2010.
+
+
+** NEW DATASET **
+ds id: bc2c749d-49a0-46c0-9582-eb33946a983e
+ds on site: https://staging.resourcewatch.org/data/explore/bc2c749d-49a0-46c0-9582-eb33946a983e
+
+~ layers ~
+
+layer id: d0147b4b-89d7-49e3-945a-a5fb1fe26345
+name: 2000 Barley Yield Gap (t/ha gap)
+description: Difference between observed barley yields and the potential yield at the same location in tons per hectare gap.
+
+layer id: d24a0b3b-b501-4189-aa1a-4912d0c94ec7
+name: 2000 Rice Yield Gap (t/ha gap)
+description: Difference between observed rice yields and the potential yield at the same location in tons per hectare gap.
+
+layer id: e5744d8e-e8af-4e72-a8f6-35adacf70976
+name: 2000 Soybean Yield Gap (t/ha gap)
+description: Difference between observed soybean yields and the potential yield at the same location in tons per hectare gap.
+
+layer id: 59ff5765-5c11-4b9a-9b34-1e6551a29236
+name: 2000 Maize Yield Gap (t/ha gap)
+description: Difference between observed maize yields and the potential yield at the same location in tons per hectare gap.
+
+
+** NEW DATASET **
+ds id: 795a7ceb-ebc1-4479-95ad-76ea4d045ad3
+ds on site: https://staging.resourcewatch.org/data/explore/795a7ceb-ebc1-4479-95ad-76ea4d045ad3
+
+~ layers ~
+
+layer id: cfb9e2f8-e34d-41e8-b7f9-bcb1d9201919
+name: 2014 Global Conflict Risk Index - Food Insecurity
+description: The Global Conflict Risk Index is an index of the statistical risk of violent conflict in the next 1-4 years for each country in the world and includes 24 indicators. The map displays one of the indicators food insecurity in 2014 and is created by the combination of price level, price volatility, dietary requirements, and nourishment.
+
+
+** NEW DATASET **
+ds id: 2cc29514-b97a-4103-92b1-c8c8e9268cd8
+ds on site: https://staging.resourcewatch.org/data/explore/2cc29514-b97a-4103-92b1-c8c8e9268cd8
+
+~ layers ~
+
+layer id: 29e41dbc-468a-411c-97be-69341f3da491
+name: 2014 Political Voice - Women's Political Representation (%)
+description: Percent of women in national parliaments as a measurement of restricted civil liberties in 2014.
+
+
+** NEW DATASET **
+ds id: 773a16a7-3531-4b56-8253-babd15ad7f87
+ds on site: https://staging.resourcewatch.org/data/explore/773a16a7-3531-4b56-8253-babd15ad7f87
+
+~ layers ~
+
+layer id: 47bc1b64-8ea5-445f-bf40-285edc559f82
+name: 2013 Forest Land Administered by Governments (mha)
+description: Forest area owned by governments in 2013 in millions of hectares.
+
+
+** NEW DATASET **
+ds id: 9e48d843-c2ae-4630-bfeb-48016b54fcb3
+ds on site: https://staging.resourcewatch.org/data/explore/9e48d843-c2ae-4630-bfeb-48016b54fcb3
+
+~ layers ~
+
+layer id: ee6ce337-919f-42e7-a81c-d1a0bb7ac58f
+name: Dicerorhinus sumatrensis
+description: 
+
+
+** NEW DATASET **
+ds id: ed521429-58b4-4c55-9bbe-4f4bfd2fcb1f
+ds on site: https://staging.resourcewatch.org/data/explore/ed521429-58b4-4c55-9bbe-4f4bfd2fcb1f
+
+~ layers ~
+
+layer id: de6266c0-adfa-4a46-8372-0a1466027ef3
+name: Water Stress and Cropland
+description: Competition for and depletion of water in major agricultural areas. This is an overlay of water stress and cropland.
+
+
+** NEW DATASET **
+ds id: 371e700e-bc9a-4526-af92-335d888de309
+ds on site: https://staging.resourcewatch.org/data/explore/371e700e-bc9a-4526-af92-335d888de309
+
+~ layers ~
+
+layer id: 53f3f4ef-67ac-46e1-a2ad-5ef11bbfcfe1
+name: 2013 US Sewage Facilities Compliance Status
+description: Compliance status of US sewage facilities in 2013 according to the EPA's Integrated Compliance Information System.
+
+
+** NEW DATASET **
+ds id: c9eadefd-4a06-4f3b-a2eb-3e3f45624c24
+ds on site: https://staging.resourcewatch.org/data/explore/c9eadefd-4a06-4f3b-a2eb-3e3f45624c24
+
+~ layers ~
+
+layer id: 82e75226-a316-4462-9d56-f89f596d0d7d
+name: City Water Intake Locations
+description: Over 1,500 water intake locations and sources from the first global survey of the water sources of over 500 large cities.
+
+
+** NEW DATASET **
+ds id: d7c3d954-ac86-4d1a-bb6a-c8c432a94e26
+ds on site: https://staging.resourcewatch.org/data/explore/d7c3d954-ac86-4d1a-bb6a-c8c432a94e26
+
+~ layers ~
+
+layer id: 2db606de-49d9-49d4-a6ef-6f45b6d0cf04
+name: Baseline Water Stress
+description: Baseline water stress measures the ratio of total annual water withdrawals to total available annual renewable supply, accounting for upstream consumptive use. Higher values indicate more competition among users.
+
+
+** NEW DATASET **
+ds id: 0be2ce12-79b3-434b-b557-d6ea92d787fe
+ds on site: https://staging.resourcewatch.org/data/explore/0be2ce12-79b3-434b-b557-d6ea92d787fe
+
+~ layers ~
+
+layer id: 34d5208b-5c70-42bc-9473-bc56eb575d77
+name: Gender Gap Index
+description: Index of gender equality, or the relative gaps between women and men across four key areas (health, education, economy, and politics). The value ranges between 1 (parity) and 0 (imparity).
+
+
+** NEW DATASET **
+ds id: 03bfb30e-829f-4299-bab9-b2be1b66b5d4
+ds on site: https://staging.resourcewatch.org/data/explore/03bfb30e-829f-4299-bab9-b2be1b66b5d4
+
+~ layers ~
+
+layer id: 60b5e4cc-9564-47fb-9132-7701f5ace504
+name: 2011 Forest Sector Gross Value Added (USD, millions)
+description: Gross value added from formal forest sector (USD, Million) in 2011 by country, including pulp and paper industry, wood processing, and roundwood production.
+
+layer id: 2bb367e3-adba-4ca1-ba96-eb58014deaec
+name: 2011 Forest Sector Employment (Thousands)
+description: Number of people employed in the forestry sector in 2011 by country, including pulp and paper industry, wood processing, and roundwood production.
+
+
+** NEW DATASET **
+ds id: 9ad91eb4-9217-41aa-a547-7b86f7c68deb
+ds on site: https://staging.resourcewatch.org/data/explore/9ad91eb4-9217-41aa-a547-7b86f7c68deb
+
+~ layers ~
+
+layer id: a926b352-f903-4f02-9471-ab81b78ee709
+name: Bonn Challenge - Country Commitments (ha, millions)
+description: Forest and landscape restoration commitments under the Bonn Challenge by country.
+
+
+** NEW DATASET **
+ds id: 71b81fe0-23fc-4154-8601-ba987381594c
+ds on site: https://staging.resourcewatch.org/data/explore/71b81fe0-23fc-4154-8601-ba987381594c
+
+~ layers ~
+
+layer id: cbb309b7-1df1-4638-b821-48db53053d38
+name: Intact Forest Landscapes
+description: Identifies the world’s last remaining unfragmented forest landscapes, large enough to retain all native biodiversity and showing no signs of human alteration as of the year 2013. This layer also shows the reduction in the extent of Intact Forest Landscapes from 2000 to 2013.
+
+
+** NEW DATASET **
+ds id: 5d269c36-6ccf-4620-838d-431f86c30f69
+ds on site: https://staging.resourcewatch.org/data/explore/5d269c36-6ccf-4620-838d-431f86c30f69
+
+~ layers ~
+
+layer id: b0a8f63f-e3a3-4599-abd8-19120edd98b1
+name: 2012 DALYs Attributable to the Environment (Age Adjusted per 100,000 People) (%)
+description: Total Disability-adjusted life-years (DALYs) are the burden of disease attributable to the environment expressed as disability-adjusted life-years in 2012. Age-standardized rates adjust for differences in population age, and can therefore be used to compare the rates of countries without being affected by the differences in age distribution from country to country.
+
+layer id: 33d8c5af-ee25-49af-948f-deb5d17fdf0b
+name: 2012 Age-Adjusted DALYs Attributable to the Environment (per 100,000 Population)
+description: Total Disability-adjusted life-years (DALYs) are the burden of disease attributable to the environment expressed as disability-adjusted life-years in 2012. Age-standardized rates adjust for differences in population age, and can therefore be used to compare the rates of countries without being affected by the differences in age distribution from country to country. The map displays the total number of Disability-adjusted life-years per country in 2012.
+
+
+** NEW DATASET **
+ds id: d81c1054-1a51-4d71-8786-50c2c14ee801
+ds on site: https://staging.resourcewatch.org/data/explore/d81c1054-1a51-4d71-8786-50c2c14ee801
+
+~ layers ~
+
+layer id: 2ea2e386-e627-4e3e-83e8-150e070b0c73
+name: 2000 Infant Mortality Rates (per 1,000 live births)
+description: Global subnational map of infant mortality rate  estimates for the year 2000 measured per 1,000 births.
+
+
+** NEW DATASET **
+ds id: d4ca3cc4-c162-469c-b341-b52284a73eaa
+ds on site: https://staging.resourcewatch.org/data/explore/d4ca3cc4-c162-469c-b341-b52284a73eaa
+
+~ layers ~
+
+layer id: 3ff24d05-7a38-49d3-a14a-cec86a29578d
+name: 2015 Gender Development Index
+description: The Gender Development Index (GDI) is a ratio of female to male Human Development Index (HDI) values in 2015. The GDI measures gender gaps in human development achievements by accounting for disparities between women and men in three basic dimensions of human development—health, knowledge and living standards using the same component indicators as in the HDI. The ratio is Female HDI:Male HDI. Values further from 1 have less development equality between genders.
+
+
+** NEW DATASET **
+ds id: ccee0012-de06-433d-8092-8516bdfb79de
+ds on site: https://staging.resourcewatch.org/data/explore/ccee0012-de06-433d-8092-8516bdfb79de
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 807eeeff-c33c-4b74-a816-3c313bafdcd4
+ds on site: https://staging.resourcewatch.org/data/explore/807eeeff-c33c-4b74-a816-3c313bafdcd4
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 4fcdfd32-a02b-4068-8062-a0fee100aa75
+ds on site: https://staging.resourcewatch.org/data/explore/4fcdfd32-a02b-4068-8062-a0fee100aa75
+
+~ layers ~
+
+layer id: 62d642a1-7a4c-4680-81c1-de2a23710b98
+name: 2011 Undiscovered Oil and Gas Resources (Non-U.S.)
+description: Assessment of undiscovered, technically recoverable conventional oil and gas resources of the world, excluding the United States.
+
+
+** NEW DATASET **
+ds id: bf5877eb-399a-4237-b510-b1d41049e3bc
+ds on site: https://staging.resourcewatch.org/data/explore/bf5877eb-399a-4237-b510-b1d41049e3bc
+
+~ layers ~
+
+layer id: f30d172f-ccf5-460e-9bcf-0fe4ce4d470a
+name: Territorial Waters
+description: Territorial Waters (or Territorial Seas) are within 12 nautical miles from  low-water line along the coast. This sovereignty of the coastal State extends to the air space over the territorial sea as well as to its bed and subsoil.
+
+layer id: 42e903a8-9ba0-4eca-a6c6-5d3b6a4570b8
+name: Contiguous Waters
+description: Contiguous Waters (or the Contiguous Zone) extends 24 nautical miles from the baselines from which the breadth of the territorial sea is measured. Coastal States may exercise the control necessary in contiguous waters to prevent and punish infringement and of its customs, fiscal, immigration or sanitary laws and regulations within its territory or territorial sea.
+
+layer id: a758471f-ea8d-4210-9edc-70b91e7b7f97
+name: Exclusive Economic Zones
+description: Exclusive Economic Zones (EEZs) are areas within 200 nautical miles from the baselines from which the breadth of the territorial sea is measured. The coastal State has sovereign rights for the purpose of exploring and exploiting, conserving and managing the natural resources, sovereign rights for the purpose of exploring and exploiting, conserving and managing the natural resources  of the waters superjacent to the seabed and of the seabed and its subsoil.
+
+
+** NEW DATASET **
+ds id: 7495ba27-9a0f-4ebc-af04-a99ffa94b002
+ds on site: https://staging.resourcewatch.org/data/explore/7495ba27-9a0f-4ebc-af04-a99ffa94b002
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: a070690c-f464-4ced-837a-b80ca431c0c9
+ds on site: https://staging.resourcewatch.org/data/explore/a070690c-f464-4ced-837a-b80ca431c0c9
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 1de2af1c-5e5e-4a33-b8f1-8c8f9d000e49
+ds on site: https://staging.resourcewatch.org/data/explore/1de2af1c-5e5e-4a33-b8f1-8c8f9d000e49
+
+~ layers ~
+
+layer id: db0a88cf-1470-4081-a931-d96dcce6ebed
+name: 2017 Climate Risk Index
+description: Analysis of global climate risk based on extreme weather events and socioeconomic data in 2017. Lower index scores indicate higher risk.
+
+
+** NEW DATASET **
+ds id: 1b8f1592-2a92-4dd5-bd85-6d231c7d3229
+ds on site: https://staging.resourcewatch.org/data/explore/1b8f1592-2a92-4dd5-bd85-6d231c7d3229
+
+~ layers ~
+
+layer id: fb07a52c-bdf3-48af-af99-4d342388bf40
+name: Lake Volume (mcm)
+description: Total lake or reservoir volume, in million cubic meters (1 million m³= 0.001 km³) for lakes with a surface area of at least 10 hectares.
+
+
+** NEW DATASET **
+ds id: e2aa09eb-c82e-4977-b614-ef71da5936ce
+ds on site: https://staging.resourcewatch.org/data/explore/e2aa09eb-c82e-4977-b614-ef71da5936ce
+
+~ layers ~
+
+layer id: 28b1dcd4-14d9-415f-9b60-5ce46b468211
+name: 2009-2010 Cruise Ship Ports - Number of Passengers (thousands)
+description: Cruise ship port locations and passenger visitation volume for the one-year period of July 2009 to June 2010.
+
+
+** NEW DATASET **
+ds id: 7fb1ebf5-398b-46ec-a915-32cee68b16e7
+ds on site: https://staging.resourcewatch.org/data/explore/7fb1ebf5-398b-46ec-a915-32cee68b16e7
+
+~ layers ~
+
+layer id: 6c8faf29-0054-4453-9ca6-c1f7ab752e1f
+name: 2005 Major Mineral Deposits by Type
+description: Major mineral commodity deposits identified by the USGS throughout the world in 2005.
+
+
+** NEW DATASET **
+ds id: af2ad005-eeb3-4f16-ac1e-ceb83c85fde2
+ds on site: https://staging.resourcewatch.org/data/explore/af2ad005-eeb3-4f16-ac1e-ceb83c85fde2
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: e7582657-9c16-4eb1-89e8-0211d94015c6
+ds on site: https://staging.resourcewatch.org/data/explore/e7582657-9c16-4eb1-89e8-0211d94015c6
+
+~ layers ~
+
+layer id: 009abef5-602c-4e64-9667-af3fa6c807a0
+name: 2016 Environmental Performance Index Score
+description: Ranks countries' performance on environmental issues related to protection of human health and protection of ecosystems in 2016. Higher index scores indicate better environmental performance.
+
+
+** NEW DATASET **
+ds id: f48541d3-a622-4908-9400-5ef26257ac96
+ds on site: https://staging.resourcewatch.org/data/explore/f48541d3-a622-4908-9400-5ef26257ac96
+
+~ layers ~
+
+layer id: dbe674f3-aee8-4de1-9dcf-1099c4b70855
+name: Water Institutions
+description: The main institutions dealing with water resources for agriculture and rural development in 117 countries.
+
+
+** NEW DATASET **
+ds id: 3b8c34d4-af15-4113-aa1d-e871a64bc1b9
+ds on site: https://staging.resourcewatch.org/data/explore/3b8c34d4-af15-4113-aa1d-e871a64bc1b9
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 0b9f0100-ce5b-430f-ad8f-3363efa05481
+ds on site: https://staging.resourcewatch.org/data/explore/0b9f0100-ce5b-430f-ad8f-3363efa05481
+
+~ layers ~
+
+layer id: 929ffb0b-9a13-4617-9a60-9f7c9a83090f
+name: 2014 Overall Environmental Democracy Index Score
+description: An index of environmental democracy based on the state of national laws protecting transparency, participation, and justice in environmental decision making in 2014. The index is based on 75 legal indicators, which test both the extent of provisions that promote environmental democracy and the strength of a given provision in providing an enforceable legal right for the public. Each indicator is scored on a range from 0 (lowest) to 3 (highest) and then averaged to determine the overall score.
+
+
+** NEW DATASET **
+ds id: 00d4292f-b7c9-42a4-87b2-64f6f7801b32
+ds on site: https://staging.resourcewatch.org/data/explore/00d4292f-b7c9-42a4-87b2-64f6f7801b32
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: aa3cd9a3-3330-4f88-b54e-a8e2aacf302e
+ds on site: https://staging.resourcewatch.org/data/explore/aa3cd9a3-3330-4f88-b54e-a8e2aacf302e
+
+~ layers ~
+
+layer id: 38163bf2-30bd-494c-b4a0-1d813b21a84c
+name: 2000 Maize - Harvested Area (ha)
+description: Harvested area of maize in 206 countries for 2000 (average of census data from 1997 to 2003) in hectares.
+
+layer id: 67a85462-18ed-4282-b9a4-b3ab89ab675b
+name: 2000 Rice - Harvested Area (ha)
+description: Harvested area of rice in 206 countries for 2000 (average of census data from 1997 to 2003) in hectares.
+
+layer id: 05b73730-86db-40da-a5f4-d1d1a383ae98
+name: 2000 Soybean - Harvested Area (ha)
+description: Harvested area of soybean in 206 countries for 2000 (average of census data from 1997 to 2003) in hectares.
+
+layer id: abd854c6-2cfc-47da-85d9-50470d51f81c
+name: 2000 Wheat- Harvested Area (ha)
+description: Harvested area of wheat in 206 countries for 2000 (average of census data from 1997 to 2003) in hectares.
+
+layer id: 654745a0-a8bb-41d0-8608-285981d2d19b
+name: 2000 Maize - Production (mt)
+description: Production of maize in 206 countries for 2000 (average of census data from 1997 to 2003) in metric tons.
+
+layer id: b27864a1-c5dc-4d0d-8292-f41b51be5a0e
+name: 2000 Rice - Production (mt)
+description: Production of rice in 206 countries for 2000 (average of census data from 1997 to 2003) in metric tons.
+
+layer id: 85bce52a-3e3a-49bb-806b-3deee83dcf46
+name: 2000 Soybean - Production (mt)
+description: Production of soybeans in 206 countries for 2000 (average of census data from 1997 to 2003) in metric tons.
+
+layer id: 2e4491e6-a4de-48d4-8eba-0cae0d61a20c
+name: 2000 Wheat - Production (mt)
+description: Production of wheat in 206 countries for 2000 (average of census data from 1997 to 2003) in metric tons.
+
+
+** NEW DATASET **
+ds id: a7679c85-fd5a-4126-a6a6-266443c658f5
+ds on site: https://staging.resourcewatch.org/data/explore/a7679c85-fd5a-4126-a6a6-266443c658f5
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 5e156d22-7f84-4cd2-9724-c1a519a83e0a
+ds on site: https://staging.resourcewatch.org/data/explore/5e156d22-7f84-4cd2-9724-c1a519a83e0a
+
+~ layers ~
+
+layer id: a1f3ee1f-a898-4cb8-8162-f2dfb2f3b99c
+name: City and Town Populations (millions)
+description: A near-real time collection of all admin-0 (national-level) capitals, many admin-1 capitals (equivalent to states in the United States), major cities and towns, and a sampling of smaller towns in sparsely inhabited regions. Updates irregularly.
+
+
+** NEW DATASET **
+ds id: 050f4146-566c-4a6d-9aaa-b49ab66a3090
+ds on site: https://staging.resourcewatch.org/data/explore/050f4146-566c-4a6d-9aaa-b49ab66a3090
+
+~ layers ~
+
+layer id: 6b451743-d467-4ed3-86b4-1163ec7e3a0f
+name: Terrestrial Ecoregions
+description: A classification of terrestrial land into 14 major ecoregions or habitat types from 2008.
+
+
+** NEW DATASET **
+ds id: 4458eb12-8572-45d1-bf07-d5a3ee097021
+ds on site: https://staging.resourcewatch.org/data/explore/4458eb12-8572-45d1-bf07-d5a3ee097021
+
+~ layers ~
+
+layer id: 53e9aad0-68e1-4d35-bfa7-5ef590738fbb
+name: 2016 Biodiversity Hotspots
+description: Location and extent of the 35 biodiversity hotspots (highly threatened biogeographic regions with high-biodiversity endemism) in 2016.
+
+
+** NEW DATASET **
+ds id: 36803484-c413-49a9-abe2-2286ee99b624
+ds on site: https://staging.resourcewatch.org/data/explore/36803484-c413-49a9-abe2-2286ee99b624
+
+~ layers ~
+
+layer id: 2dd860af-21be-47c6-8e1d-0b8eb63bfa46
+name: Marine Ecoregions of the World (2007)
+description: A biogeographic classification of the world's coasts and shelves in 2007.
+
+
+** NEW DATASET **
+ds id: a07f1bed-ca16-4fbf-b14b-d3a0344cab74
+ds on site: https://staging.resourcewatch.org/data/explore/a07f1bed-ca16-4fbf-b14b-d3a0344cab74
+
+~ layers ~
+
+layer id: ec4171e7-064b-48b6-bb5d-63d53f6cb586
+name: 2013 Global Roadless Areas (km², thousands)
+description: Areas defined as those at least 1 km from current roads in 2013. To create this map, Natural Breaks were calculated and rounded to the nearest 5 or 10 thousand square kilometers.
+
+
+** NEW DATASET **
+ds id: 7d3465f8-5959-4531-aaf2-c9a8a03183b3
+ds on site: https://staging.resourcewatch.org/data/explore/7d3465f8-5959-4531-aaf2-c9a8a03183b3
+
+~ layers ~
+
+layer id: 70bc182f-0e3d-42f4-8313-f6fc45416ffc
+name: 2014 Endemic Bird Areas
+description: Displays areas where the geographic range of two or more endemic bird species overlaps in 2014.
+
+
+** NEW DATASET **
+ds id: d8a45b34-4cc0-42f4-957d-e13b37e9182e
+ds on site: https://staging.resourcewatch.org/data/explore/d8a45b34-4cc0-42f4-957d-e13b37e9182e
+
+~ layers ~
+
+layer id: 60c2f13b-9522-4255-98e2-f373f9b4a1f2
+name: 2000 Anthropogenic Biomes
+description: Historical transformations within the terrestrial biosphere caused by sustained direct human interaction with ecosystems from 1700-2000. The map displays the year 2000.
+
+
+** NEW DATASET **
+ds id: ad7a5641-57bc-417d-8acf-8dc9df398779
+ds on site: https://staging.resourcewatch.org/data/explore/ad7a5641-57bc-417d-8acf-8dc9df398779
+
+~ layers ~
+
+layer id: d8f78b42-cc9f-4f8c-939c-1afa57f6c7d6
+name: 1700 Anthropogenic Biomes
+description: Historical transformations within the terrestrial biosphere caused by sustained direct human interaction with ecosystems from 1700-2000. The map displays the year 2000.
+
+layer id: 7f37560a-f4c4-4edc-a253-92226cada782
+name: 1800 Anthropogenic Biomes
+description: Historical transformations within the terrestrial biosphere caused by sustained direct human interaction with ecosystems from 1700-2000. The map displays the year 2000.
+
+layer id: cf23dbd1-5944-4971-9701-3199673a8eb6
+name: 1900 Anthropogenic Biomes
+description: Historical transformations within the terrestrial biosphere caused by sustained direct human interaction with ecosystems from 1700-2000. The map displays the year 2000.
+
+layer id: 14087086-49d0-4260-b40c-797ebaef662e
+name: 2000 Anthropogenic Biomes
+description: Historical transformations within the terrestrial biosphere caused by sustained direct human interaction with ecosystems from 1700-2000. The map displays the year 2000.
+
+
+** NEW DATASET **
+ds id: 0a59f415-ee0b-4d19-96f7-c7304c152e1b
+ds on site: https://staging.resourcewatch.org/data/explore/0a59f415-ee0b-4d19-96f7-c7304c152e1b
+
+~ layers ~
+
+layer id: acfc2b99-a06b-4763-83e5-7e14539940b3
+name: Probabilities of Urban Expansion 2030
+description: The Global Grid of Probabilities of Urban Expansion details likely future areas of urban expansion up to 2030.
+
+layer id: 3614b063-8cf7-4cf0-9606-08fac3cf4b22
+name: Test Probabilities of Urban Expansion
+description: 
+
+
+** NEW DATASET **
+ds id: ccbcaf7b-1619-4298-8275-b135d1e8e04e
+ds on site: https://staging.resourcewatch.org/data/explore/ccbcaf7b-1619-4298-8275-b135d1e8e04e
+
+~ layers ~
+
+layer id: d787d894-f7af-47c4-af0f-0849b06686ee
+name: 2015 Accessibility to Cities
+description: Time it takes to travel to the nearest city in 2015. Units are minutes, hours, days, and months.
+
+
+** NEW DATASET **
+ds id: f4875c0e-9b2b-4f86-a338-f63dc5b33863
+ds on site: https://staging.resourcewatch.org/data/explore/f4875c0e-9b2b-4f86-a338-f63dc5b33863
+
+~ layers ~
+
+layer id: 79bb3022-253a-4e72-aaeb-c489fbc9860b
+name: Data for asset cli_035_20171015
+description: Data corresponds to asset cli_035_20171015
+
+layer id: 58c6428c-4f52-462b-a0bc-e368eda002a8
+name: Data for asset cli_035_20171115
+description: Data corresponds to asset cli_035_20171115
+
+
+** NEW DATASET **
+ds id: b8307c16-fd77-4e35-9b68-8726a025f401
+ds on site: https://staging.resourcewatch.org/data/explore/b8307c16-fd77-4e35-9b68-8726a025f401
+
+~ layers ~
+
+layer id: f66acc52-455b-44d9-ad48-d10a301a0f4f
+name: 2015 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2015.
+
+layer id: 636d8122-db4f-4e9b-a34a-819bde4f1fe9
+name: 2014 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2014.
+
+layer id: b50fb94a-8f57-4a89-a19c-5111e63327a3
+name: 2013 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2013.
+
+layer id: 1e4968d1-d4e5-489c-a4b3-47631f9579b5
+name: 2012 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2012.
+
+layer id: afb14906-fd45-447e-a42a-54a53b90e512
+name: 2011 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2011.
+
+layer id: d02d6e88-b31a-477c-88ea-4085e5f611cf
+name: 2010 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2010.
+
+layer id: 40444eb3-e834-4907-9415-9fedeecf2eef
+name: 2009 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2009.
+
+layer id: f9d25147-66c1-4c06-ac75-351c09d0ea39
+name: 2008 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2008.
+
+layer id: 2472a4e7-c676-4458-b857-61c82f1e903a
+name: 2007 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2007.
+
+layer id: 50df3494-ba06-4cc8-8525-64dd7e460a44
+name: 2006 Surface Water Extent
+description: Extent of seasonal water and permanent water in 2006.
+
+
+** NEW DATASET **
+ds id: e1fe8457-8bbe-4a9e-8632-5e9681d1d0c1
+ds on site: https://staging.resourcewatch.org/data/explore/e1fe8457-8bbe-4a9e-8632-5e9681d1d0c1
+
+~ layers ~
+
+layer id: 64d742bf-10f6-4a3a-86a9-fb6840c046fc
+name: unhcr test
+description: 
+
+
+** NEW DATASET **
+ds id: 49c6558a-9f1d-4e19-a745-36f43e22419a
+ds on site: https://staging.resourcewatch.org/data/explore/49c6558a-9f1d-4e19-a745-36f43e22419a
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 098b33df-6871-4e53-a5ff-b56a7d989f9a
+ds on site: https://staging.resourcewatch.org/data/explore/098b33df-6871-4e53-a5ff-b56a7d989f9a
+
+~ layers ~
+
+layer id: e1dc5626-c1c2-4d60-a6a9-746a33fe1cb7
+name: Political Boundaries (First Subnational Level)
+description: First subnational political boundaries
+
+layer id: f090245b-1b8f-414d-a3ac-6498db3b354b
+name: Political Boundaries (Second Subnational Level)
+description: Second subnational political boundaries
+
+
+** NEW DATASET **
+ds id: e7c9251c-d39e-4b48-88c5-b2783bb7afdc
+ds on site: https://staging.resourcewatch.org/data/explore/e7c9251c-d39e-4b48-88c5-b2783bb7afdc
+
+~ layers ~
+
+layer id: 95eff3b2-c35a-4ece-827a-2aae7e558003
+name: 2013-2014 Tree Plantations
+description: Locations of tree plantations in seven countries by type.
+
+
+** NEW DATASET **
+ds id: c36c3108-2581-4b68-852a-c929fc758001
+ds on site: https://staging.resourcewatch.org/data/explore/c36c3108-2581-4b68-852a-c929fc758001
+
+~ layers ~
+
+layer id: 42caee24-4225-4c0c-8c1b-4da550ddd120
+name: Landslide Potential
+description: Global map of susceptibility to landslides.
+
+
+** NEW DATASET **
+ds id: 9e9a5c50-b825-4f12-838f-1650943c2be1
+ds on site: https://staging.resourcewatch.org/data/explore/9e9a5c50-b825-4f12-838f-1650943c2be1
+
+~ layers ~
+
+layer id: 7b7e7fcd-879c-4b2c-a24d-19c12fac7619
+name: Water Institutions
+description: The main institutions dealing with water resources for agriculture and rural development in 117 countries.
+
+
+** NEW DATASET **
+ds id: ea67f436-473c-4977-bdf2-8aa0dabbaa6f
+ds on site: https://staging.resourcewatch.org/data/explore/ea67f436-473c-4977-bdf2-8aa0dabbaa6f
+
+~ layers ~
+
+layer id: 34fa9c9e-5748-4fdb-865e-92d581bc58d3
+name: Global Snow Cover.
+description: 
+
+
+** NEW DATASET **
+ds id: abd96caf-485e-403f-90ae-3fdb60cea4f7
+ds on site: https://staging.resourcewatch.org/data/explore/abd96caf-485e-403f-90ae-3fdb60cea4f7
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 2fd15b61-1b1a-46ea-9c82-1d6890640e66
+ds on site: https://staging.resourcewatch.org/data/explore/2fd15b61-1b1a-46ea-9c82-1d6890640e66
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 9162aebb-a212-4962-824d-427846030fe8
+ds on site: https://staging.resourcewatch.org/data/explore/9162aebb-a212-4962-824d-427846030fe8
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: a5e50799-fbd1-4aca-b3fa-22a6f6fa7aad
+ds on site: https://staging.resourcewatch.org/data/explore/a5e50799-fbd1-4aca-b3fa-22a6f6fa7aad
+
+~ layers ~
+
+layer id: 5c8ec7a7-ce63-4841-b011-b0188fe0fc84
+name: Hurricane Tracks (Cat 1_2 Hurricanes Small Scale)
+
+
+** NEW DATASET **
+ds id: 327e27db-cb28-4654-a1e9-3212af3eba9e
+ds on site: https://staging.resourcewatch.org/data/explore/327e27db-cb28-4654-a1e9-3212af3eba9e
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 931c026d-c56c-4b78-ba2e-aaa097af02c7
+ds on site: https://staging.resourcewatch.org/data/explore/931c026d-c56c-4b78-ba2e-aaa097af02c7
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: c0c71e67-0088-4d69-b375-85297f79ee75
+ds on site: https://staging.resourcewatch.org/data/explore/c0c71e67-0088-4d69-b375-85297f79ee75
+
+~ layers ~
+
+layer id: d57be513-7510-4c97-bc0c-88b3a6407edb
+name: 2015 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+layer id: eb0574c3-50a8-4cd3-ba8d-4d13eb7b12ad
+name: 2014 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+layer id: 5543496a-84e0-4936-b974-d7504717b84d
+name: 2013 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+layer id: 845fc586-c130-4da8-89da-3978816c14c2
+name: 2012 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+layer id: dbdb0d8e-7352-4bc7-857c-f727b56462aa
+name: 2011 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+layer id: d799f842-95bc-48ef-b17e-9c2550b6f1c2
+name: 2010 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+layer id: 156cfedb-f989-4ad2-be6d-5c48db262a36
+name: 2009 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+layer id: bee905be-cb07-411c-b646-df7cb0a247da
+name: 2008 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+layer id: e6ddf90a-c822-46bf-8e02-de86d7bdf5d0
+name: 2007 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+layer id: ed38b641-b462-44b9-832c-1f9747922e25
+name: 2006 Standardized Precipitation Index (SPI)
+description: Standardized Precipitation Index is a meteorological drought index for monitoring and following drought conditions. To learn more about drought severity classification: http://www.wamis.org/agm/pubs/SPI/WMO_1090_EN.pdf
+
+
+** NEW DATASET **
+ds id: 90cace56-fad5-4f36-816f-605c9f5b48a2
+ds on site: https://staging.resourcewatch.org/data/explore/90cace56-fad5-4f36-816f-605c9f5b48a2
+
+~ layers ~
+
+layer id: 59656d98-762e-4d4c-988d-b80334cc6973
+name: 2014 Global Distribution of Modelled Mangrove Biomass (t/ha)
+description: 
+
+
+** NEW DATASET **
+ds id: a76a0e14-5a4e-4839-8082-27db11b98f6f
+ds on site: https://staging.resourcewatch.org/data/explore/a76a0e14-5a4e-4839-8082-27db11b98f6f
+
+~ layers ~
+
+layer id: 005994c6-5160-4544-ac91-9b669a61e5a7
+name: Electricity/Heat Per Capita (tco2 per capita)
+description: 
+
+
+** NEW DATASET **
+ds id: d42f17fe-ab9a-465a-ab0b-9001d63c2206
+ds on site: https://staging.resourcewatch.org/data/explore/d42f17fe-ab9a-465a-ab0b-9001d63c2206
+
+~ layers ~
+
+layer id: 53353f6d-b11f-4ba7-b6cd-9fa441d761e4
+name: 2016 Nighttime Lights - Brightness
+description: Global nighttime lights in 2016 collected by the Suomi National Polar-Orbiting Partnership (Suomi NPP) satellite. Brightness is measured on a scale from 0 to 255.
+
+layer id: aad32781-71f2-4ee2-99a8-0d06a7c7e27e
+name: 2012 Nighttime Lights - Brightness
+description: Global nighttime lights in 2012 collected by the Suomi National Polar-Orbiting Partnership (Suomi NPP) satellite. Brightness is measured on a scale from 0 to 255.
+
+
+** NEW DATASET **
+ds id: 30296e42-8010-448f-b00c-c3b3319b8377
+ds on site: https://staging.resourcewatch.org/data/explore/30296e42-8010-448f-b00c-c3b3319b8377
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: c5403d31-e42d-413d-a98c-c408b0608cf3
+ds on site: https://staging.resourcewatch.org/data/explore/c5403d31-e42d-413d-a98c-c408b0608cf3
+
+~ layers ~
+
+layer id: fb4854f3-b411-4393-9f16-c95fff740b93
+name: Permafrost Extent - Mean Estimate at 1.5° Warming
+description: Potential future permafrost extent for 1.5 degrees Celsius of warming based on current spatial distribution of permafrost and air temperature. The classes are defined as:  continuous, >90% coverage; discontinuous, 50–90% coverage; sporadic, 10–50% coverage; isolated patches, 0–10% coverage.
+
+layer id: d819b8d4-311f-494f-845d-d588e0596442
+name: Permafrost Extent - Mean Estimate at 2° Warming
+description: Potential future permafrost extent for 2 degrees Celsius of warming based on current spatial distribution of permafrost and air temperature. The classes are defined as:  continuous, >90% coverage; discontinuous, 50–90% coverage; sporadic, 10–50% coverage; isolated patches, 0–10% coverage.
+
+
+** NEW DATASET **
+ds id: 28dd2700-6de7-4345-830a-a5ffa0716bb2
+ds on site: https://staging.resourcewatch.org/data/explore/28dd2700-6de7-4345-830a-a5ffa0716bb2
+
+~ layers ~
+
+layer id: e3e8510c-3cb6-453a-aa23-9f307cc3a76d
+name: 2030 Probabilities of Urban Expansion (%)
+description: The Global Grid of Probabilities of Urban Expansion details likely future areas of urban expansion up to 2030.
+
+
+** NEW DATASET **
+ds id: 9c8f1480-6f6c-43fc-835a-b55ff72aedf7
+ds on site: https://staging.resourcewatch.org/data/explore/9c8f1480-6f6c-43fc-835a-b55ff72aedf7
+
+~ layers ~
+
+layer id: 8605072c-cfc7-4bc7-b145-90ad7e95976c
+name: Aboveground Live Woody Biomass Density (Mg C/ha)
+description: Carbon density values of aboveground live woody biomass across the tropics.
+
+
+** NEW DATASET **
+ds id: 595bcf6f-0343-4146-ba0d-c54b1c928510
+ds on site: https://staging.resourcewatch.org/data/explore/595bcf6f-0343-4146-ba0d-c54b1c928510
+
+~ layers ~
+
+layer id: f03b5d32-0cec-4348-8143-32bd54e45b0e
+name: 1975 Population Density (people/km²)
+description: The distribution and density of population, expressed as the number of people per 250 m grid cell in 1975. Legend displays people per square kilometer.
+
+layer id: d131bcf4-f1ba-41b6-94bc-0099236e719b
+name: 1990 Population Density (people/km²)
+description: The distribution and density of population, expressed as the number of people per 250 m grid cell in 1975. Legend displays people per square kilometer.
+
+layer id: 99668b5f-e0d5-4375-ab4d-3ca7aef4b295
+name: 2000 Population Density (people/km²)
+description: The distribution and density of population, expressed as the number of people per 250 m grid cell in 1975. Legend displays people per square kilometer.
+
+layer id: 478468be-c79f-4472-b910-594f5bb67cf1
+name: 2015 Population Density (people/km²)
+description: The distribution and density of population, expressed as the number of people per 250 m grid cell in 1975. Legend displays people per square kilometer.
+
+
+** NEW DATASET **
+ds id: 141ef6ab-eed9-4081-8066-7be364a48af0
+ds on site: https://staging.resourcewatch.org/data/explore/141ef6ab-eed9-4081-8066-7be364a48af0
+
+~ layers ~
+
+layer id: a5be2a9d-9dde-4b84-8ff3-b04049448107
+name: 2000 World Population Density (people/km²)
+description: Estimates of population density for the year 2000 based on counts consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match UN country totals.
+
+layer id: 0e0d91f1-6faf-4631-a77c-140a6a70c139
+name: 2005 World Population Density (people/km²)
+description: Estimates of population density for the year 2005 based on counts consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match UN country totals.
+
+layer id: 29efde50-b201-4818-be2e-8d4253588966
+name: 2010 World Population Density (people/km²)
+description: Estimates of population density for the year 2010 based on counts consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match UN country totals.
+
+layer id: 69242f3e-86f5-4d4c-8b14-5058c5023547
+name: 2015 World Population Density (people/km²)
+description: Estimates of population density for the year 2015 based on counts consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match UN country totals.
+
+layer id: 969fe99d-b861-46a1-8c8e-7c44cbafd1d6
+name: 2020 World Population Density (people/km²)
+description: Estimates of population density for the year 2020 based on counts consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match UN country totals.
+
+
+** NEW DATASET **
+ds id: dc6f3f75-dd31-4b0e-b41b-5707f742ad2c
+ds on site: https://staging.resourcewatch.org/data/explore/dc6f3f75-dd31-4b0e-b41b-5707f742ad2c
+
+~ layers ~
+
+layer id: 2bfa4d1d-1993-40ef-b280-9c2eaba42b55
+name: 2005 Maize - Harvested Area (ha)
+description: Estimations of global maize harvested area at a 5 arc minute spatial resolution for 2005 in hectares.
+
+layer id: 9de09510-988c-46db-894c-c540d3514a61
+name: 2005 Rice - Harvested Area (ha)
+description: Estimations of global rice harvested area at a 5 arc minute spatial resolution for 2005 in hectares.
+
+layer id: c8ee3c74-aeeb-4536-83dc-71bea558dca8
+name: 2005 Soybean - Harvested Area (ha)
+description: Estimations of global soybean harvested area at a 5 arc minute spatial resolution for 2005 in hectares.
+
+layer id: 77761a2d-5ab0-4ce0-9157-2569b5dca658
+name: 2005 Wheat - Harvested Area (ha)
+description: Estimations of global wheat harvested area at a 5 arc minute spatial resolution for 2005 in hectares.
+
+layer id: b1a2ae4d-5526-4933-9d09-5a28664cceee
+name: 2005 Maize - Production (mt)
+description: Estimations of global maize production at a 5 arc minute spatial resolution for 2005 in metric tons.
+
+layer id: d2f31332-5426-4dd5-bc0a-c0ba87d732cd
+name: 2005 Rice - Production (mt)
+description: Estimations of global rice production at a 5 arc minute spatial resolution for 2005 in metic tons.
+
+layer id: 62fb4698-1f57-4015-8bc3-99fe45ffb783
+name: 2005 Soybean - Production (mt)
+description: Estimations of global soybean production at a 5 arc minute spatial resolution for 2005 in metric tons.
+
+layer id: 5644ed5b-eeb2-471f-9a6d-06c6e4b04613
+name: 2005 Wheat - Production (mt)
+description: Estimations of global wheat production at a 5 arc minute spatial resolution for 2005 in metric tons.
+
+
+** NEW DATASET **
+ds id: 1a411ff1-7433-476a-a925-edb33a08bd64
+ds on site: https://staging.resourcewatch.org/data/explore/1a411ff1-7433-476a-a925-edb33a08bd64
+
+~ layers ~
+
+layer id: ab5c979c-713c-4425-a326-b67bf08f6a8e
+name: 1976-2000 Köppen-Geiger Climate Classification
+description: This updated world map of Köppen-Geiger climate classification was based on temperature and precipitation observations for the period 1976-2000. 
+The classification codes in the legend represent combinations of climate, precipitation, and temperature groupings as follows. Main climates: A, equatorial; B, arid; C, warm temperate; D, snow; E, polar. Precipitation: W, desert; S, steppe; f, fully humid; s, summer dry; w, winter dry; m, monsoonal. Temperature: h, hot arid; k, cold arid; a, hot summer; b, warm summer; c, cool summer; d, extremely continental; F, polar frost; T, polar tundra.
+
+
+** NEW DATASET **
+ds id: e6e83d98-aa1f-495f-916c-b33d0657e0fe
+ds on site: https://staging.resourcewatch.org/data/explore/e6e83d98-aa1f-495f-916c-b33d0657e0fe
+
+~ layers ~
+
+layer id: 829f01de-d659-4c6f-bdad-74c79f6451ca
+name: Erosion Risk
+description: Estimates of soil loss from rainfall and runoff on a scale from 1 to 5.  A value of 1 indicates a low risk of erosion and 5 indicates a high risk of erosion.
+
+
+** NEW DATASET **
+ds id: e4b9ef04-7bda-4757-b70f-c129f2a9cc8e
+ds on site: https://staging.resourcewatch.org/data/explore/e4b9ef04-7bda-4757-b70f-c129f2a9cc8e
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 04510a59-152b-4b60-99b2-9ef19b8bec19
+ds on site: https://staging.resourcewatch.org/data/explore/04510a59-152b-4b60-99b2-9ef19b8bec19
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: c18768a6-ca9a-4f13-aea4-cb90874b8fdf
+ds on site: https://staging.resourcewatch.org/data/explore/c18768a6-ca9a-4f13-aea4-cb90874b8fdf
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: ca586f45-01d6-496d-811a-f36a10f583aa
+ds on site: https://staging.resourcewatch.org/data/explore/ca586f45-01d6-496d-811a-f36a10f583aa
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 73722a88-71e3-403c-a033-f79405f52bdc
+ds on site: https://staging.resourcewatch.org/data/explore/73722a88-71e3-403c-a033-f79405f52bdc
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 573bbe7b-6282-4ea5-80c4-6561a543401f
+ds on site: https://staging.resourcewatch.org/data/explore/573bbe7b-6282-4ea5-80c4-6561a543401f
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 048b2140-9d4b-433e-a2dd-8d4122eb157b
+ds on site: https://staging.resourcewatch.org/data/explore/048b2140-9d4b-433e-a2dd-8d4122eb157b
+
+~ layers ~
+
+layer id: e7a275fc-e6ac-4fa5-8b82-c02b98794ef2
+name: 2009 Terrestrial Human Footprint
+description: A globally standardized measure of the cumulative human pressure on the terrestrial environment in 2009.
+
+
+** NEW DATASET **
+ds id: bb831262-98dd-4015-879e-1a00dbe76e61
+ds on site: https://staging.resourcewatch.org/data/explore/bb831262-98dd-4015-879e-1a00dbe76e61
+
+~ layers ~
+
+layer id: ca254a18-a698-43fe-b7e0-e53b80d1cc47
+name: 2005 Gross Domestic Product in Purchasing Power Parity (USD, billions)
+description: Estimates gross domestic production (GDP) in 2005 using market exchange rates into USD (MER) and adjusted to reflect local currency purchasing power parity (PPP) over a 1 degree grid of the world.
+
+
+** NEW DATASET **
+ds id: e18e9612-bcca-4eea-abf9-0ed9f97d9954
+ds on site: https://staging.resourcewatch.org/data/explore/e18e9612-bcca-4eea-abf9-0ed9f97d9954
+
+~ layers ~
+
+layer id: 096b7e26-a2b9-4c17-a32c-07ceed9dc27a
+name: 2004-2005 Global Shipping Lanes - Traffic Density
+description: Ship tracks from 3,374 commercial and research vessels are included in this data set, representing 11% of all vessels greater than 1000 gross tonnage. The brighter the shipping route, the higher it is trafficked on a range from 1-1,158 ships.
+
+
+** NEW DATASET **
+ds id: e4bdc4c9-96a3-4f0b-8d8f-1742cabd8f80
+ds on site: https://staging.resourcewatch.org/data/explore/e4bdc4c9-96a3-4f0b-8d8f-1742cabd8f80
+
+~ layers ~
+
+layer id: ba943d0b-7cbe-4db8-ba36-f5ada9ca406a
+name: Alerts for Price Spikes - WFP markets at alert level orange in 2014
+description: This shows the number of markets at alert level orange from the WFP, in the year 2014. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: 65026bf8-06dd-49b2-a64f-ab38fa38d4ca
+name: Alerts for Price Spikes - level red in 2014
+description: This shows the number of markets at alert level red from the WFP, in the year 2014. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: 7fdd6c3e-ed20-4cbe-a41b-13e59bde86d0
+name: Alerts for Price Spikes - level white in 2014
+description: This shows the number of markets at alert level white from the WFP, in the year 2014. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: c8cc122a-6712-4ac1-9bb4-6e5363b36cc0
+name: Alerts for Price Spikes - level yellow in 2014
+description: This shows the number of markets at alert level yellow from the WFP, in the year 2014. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: 1127b16f-e7d4-4214-a3aa-360cba2433eb
+name: Alerts for Price Spikes - level orange in 2015
+description: This shows the number of markets at alert level orange from the WFP, in the year 2015. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: f6bd6057-2e69-4ce2-9659-b94993236024
+name: Alerts for Price Spikes - level red in 2015
+description: This shows the number of markets at alert level red from the WFP, in the year 2015. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: 9b0afc0e-8b4b-4b3f-9170-58cd67f71bcb
+name: Alerts for Price Spikes - level white in 2015
+description: This shows the number of markets at alert level white from the WFP, in the year 2015. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: ef664cd8-ed9d-42a2-a788-4f06e1ce9e5e
+name: Alerts for Price Spikes - level yellow in 2015
+description: This shows the number of markets at alert level yellow from the WFP, in the year 2015. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: 6957d9d9-3a44-4892-924a-561579ea2fba
+name: Alerts for Price Spikes - level orange in 2016
+description: This shows the number of markets at alert level orange from the WFP, in the year 2016. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: a951b744-517d-4f70-a660-290b0392ebf9
+name: Alerts for Price Spikes - level red in 2016
+description: This shows the number of markets at alert level red from the WFP, in the year 2016. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: d3d7c7d0-81b5-446e-bb22-a5e959c785a0
+name: Alerts for Price Spikes - level white in 2016
+description: This shows the number of markets at alert level white from the WFP, in the year 2016. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: 3132cab0-e34d-4873-beb8-e6f79d7da217
+name: Alerts for Price Spikes - level yellow in 2016
+description: This shows the number of markets at alert level yellow from the WFP, in the year 2016. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: 32c0f0fd-f8b8-41f3-9eb3-3bc79f489dfb
+name: Alerts for Price Spikes - level orange in 2017
+description: This shows the number of markets at alert level orange from the WFP, in the year 2017. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: 4df398fb-4356-42e7-90c9-4d5ad060de21
+name: Alerts for Price Spikes - level red in 2017
+description: This shows the number of markets at alert level red from the WFP, in the year 2017. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2.
+
+layer id: 0deba330-639f-4bc5-82a3-ccc32f3f0216
+name: Alerts for Price Spikes - level white in 2017
+description: This shows the number of markets at alert level white from the WFP, in the year 2017. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2
+
+layer id: 83df4f89-ff31-495f-85ba-e0efad83f2fd
+name: Alerts for Price Spikes - level yellow in 2017
+description: This shows the number of markets at alert level yellow from the WFP, in the year 2017. The current ALPS value for a food commodity is the number of standard deviations the current price is above the commodity's expected price for that month. Based on this ALPS value, markets are assigned to 1 of 4 situations, where all nominal values are measured in standard deviations from the seasonal mean price:     Normal (white), ALPS < 0.25  Stress (yellow), 0.25 < ALPS < 1  Alert (orange), 1 < ALPS < 2  Crisis (red), ALPS >= 2
+
+
+** NEW DATASET **
+ds id: e2869a81-6b83-49b2-a50d-428c54b72593
+ds on site: https://staging.resourcewatch.org/data/explore/e2869a81-6b83-49b2-a50d-428c54b72593
+
+~ layers ~
+
+layer id: 314be13d-62e6-4ae0-b8dd-50860ccebd16
+name: Tree Cover Gain (2001 - 2012)
+description: Areas of gross tree cover gain from 2001-2012 with >50% canopy density.
+
+
+** NEW DATASET **
+ds id: 0448c79d-0ee0-42ff-9331-aeee70cef301
+ds on site: https://staging.resourcewatch.org/data/explore/0448c79d-0ee0-42ff-9331-aeee70cef301
+
+~ layers ~
+
+layer id: 8c2401b0-7da0-4338-b3f7-5dde24e77213
+name: 2001 Tree Cover Loss
+description: Areas of gross tree cover loss in 2001 with >30% canopy density.
+
+layer id: 65cbff75-a095-48a4-b332-52619f46b406
+name: 2001-2002 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2002 with >30% canopy density.
+
+layer id: c3610af3-0b37-4071-9d48-fe61b581bd50
+name: 2001-2003 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2003 with >30% canopy density.
+
+layer id: 9131c2c2-68e5-43f4-8037-e5384fc98941
+name: 2001-2004 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2004 with >30% canopy density.
+
+layer id: 88fb6ed0-984c-4967-bb8b-9fa9f7472410
+name: 2001-2005 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2005 with >30% canopy density.
+
+layer id: 58e6abf3-8ee8-4623-91c0-6439dcc7d7da
+name: 2001-2006 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2006 with >30% canopy density.
+
+layer id: b2557da2-05c4-4a16-ae94-24b7662b1134
+name: 2001-2007 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2007 with >30% canopy density.
+
+layer id: 726819bc-3895-4ac4-b580-ef5cf4f0ce31
+name: 2001-2008 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2008 with >30% canopy density.
+
+layer id: 8ca84b3a-4e8a-49ab-acaf-cabf2ec67638
+name: 2001-2016 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2016 with >30% canopy density.
+
+layer id: 3de15df5-8f87-41ab-b457-02ff6d7451f9
+name: 2001-2009 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2009 with >30% canopy density.
+
+layer id: 76fa130d-3037-433e-b41d-c4510c6b78b7
+name: 2001-2010 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2010 with >30% canopy density.
+
+layer id: 757b5fc1-ea89-4fee-b275-1c9775a6b3ec
+name: 2001-2011 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2011 with >30% canopy density.
+
+layer id: ff47cff7-13c9-4ffc-9cdd-66a9724701b9
+name: 2001-2012 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2012 with >30% canopy density.
+
+layer id: 0179c450-2606-4789-80a4-61fb953e6d80
+name: 2001-2013 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2013 with >30% canopy density.
+
+layer id: a8b7d43e-67c0-45ca-8402-0e422a3a40db
+name: 2001-2014 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2014 with >30% canopy density.
+
+layer id: c046c4e9-7afa-4a3e-bc1e-5677055ea4d0
+name: 2001-2015 Tree Cover Loss
+description: Areas of gross tree cover loss from 2001 to 2015 with >30% canopy density.
+
+
+** NEW DATASET **
+ds id: defe21a1-f6a0-4bf7-a9ee-f083456130de
+ds on site: https://staging.resourcewatch.org/data/explore/defe21a1-f6a0-4bf7-a9ee-f083456130de
+
+~ layers ~
+
+layer id: dd272bc7-a5e7-41e2-8ca5-6e3353603fd0
+name: nex_layer_tasavg
+description: this is the description of the layer
+
+
+** NEW DATASET **
+ds id: e28bf81f-0a0a-42ed-b400-ef83d57d393a
+ds on site: https://staging.resourcewatch.org/data/explore/e28bf81f-0a0a-42ed-b400-ef83d57d393a
+
+~ layers ~
+
+layer id: cf8e5e3f-5aaa-412d-b699-3ad80d187ea1
+name: Nitrogen Load (kg N/yr, millions)
+description: Nitrogen (N) load in rivers, lakes, wetlands and reservoirs based on the Integrated Model to Assess the Global Environment–Global Nutrient Model (IMAGE–GNM) in 2000.
+
+layer id: 4d4cce29-e0f7-4536-b001-421c2e7b66e2
+name: Phosphorus Load (kg P/yr, millions)
+description: Phosphorus (P) load in rivers, lakes, wetlands and reservoirs based on the Integrated Model to Assess the Global Environment–Global Nutrient Model (IMAGE–GNM) in 2000.
+
+layer id: 51989aae-15a0-40dd-9528-f274681f1b6f
+name: Nitrogen Retention
+description: Nitrogen (N) retention in rivers, lakes, wetlands and reservoirs based on the Integrated Model to Assess the Global Environment–Global Nutrient Model (IMAGE–GNM). N Retention is calculated as N load outflow of the cell / Total N input of the cell.
+
+layer id: 148709c1-9315-4b1b-a160-a972584601d8
+name: Phosphorus Retention
+description: Phosphorus (P) retention in rivers, lakes, wetlands and reservoirs based on the Integrated Model to Assess the Global Environment–Global Nutrient Model (IMAGE–GNM).  P retention is calculated as P load outflow of the cell / Total P input of the cell.
+
+
+** NEW DATASET **
+ds id: 4526e001-4367-47cc-b0fc-80388f7e26ac
+ds on site: https://staging.resourcewatch.org/data/explore/4526e001-4367-47cc-b0fc-80388f7e26ac
+
+~ layers ~
+
+layer id: 264d1a90-d2db-4ce0-819e-0a87e0540d1b
+name: Potential Vegetation
+description: Vegetation that would most likely exist now in the absence of human activities.
+
+
+** NEW DATASET **
+ds id: ff1425a9-4793-4ac2-99e5-7bdf87114cc7
+ds on site: https://staging.resourcewatch.org/data/explore/ff1425a9-4793-4ac2-99e5-7bdf87114cc7
+
+~ layers ~
+
+layer id: 9d8d2faf-7a20-45c6-811f-634a87661f37
+name: Sea Level Rise  - 0.5 m rise
+description: Coastal areas of the world that will likely be flooded by a 0.5 m rise in mean high tide level.
+
+layer id: a6e2d15d-b92a-4dca-ba87-7b161093dfe2
+name: Sea Level Rise  - 1 m rise
+description: Coastal areas of the world that will likely be flooded by a 1 m rise in mean high tide level.
+
+layer id: 9afec726-bda4-40cf-8460-2f5a50f98dda
+name: Sea Level Rise  - 1.5 m rise
+description: Coastal areas of the world that will likely be flooded by a 1.5 m rise in mean high tide level.
+
+layer id: 78cfecc5-9a2c-4726-9217-db5f7b50375d
+name: Sea Level Rise  - 2 m rise
+description: Coastal areas of the world that will likely be flooded by a 2 m rise in mean high tide level.
+
+layer id: fb3ada0d-6773-4848-a2ad-b5335d17efaa
+name: Sea Level Rise  - 2.5 m rise
+description: Coastal areas of the world that will likely be flooded by a 2.5 m rise in mean high tide level.
+
+layer id: 662c8a7a-253d-40ff-be21-5b565ec84582
+name: Sea Level Rise  - 3 m rise
+description: Coastal areas of the world that will likely be flooded by a 3 m rise in mean high tide level.
+
+layer id: 31d6f364-aa6b-4d1f-a40f-5b866f41ef9f
+name: Sea Level Rise  - 5 m rise
+description: Coastal areas of the world that will likely be flooded by a 5 m rise in mean high tide level.
+
+layer id: 020d1d9e-1cce-4801-b6a1-f1dfb3a64311
+name: Sea Level Rise  - 10 m rise
+description: Coastal areas of the world that will likely be flooded by a 10 m rise in mean high tide level.
+
+layer id: a376ef2c-364e-4e18-a34d-c3152c767658
+name: Sea Level Rise  - 20 m rise
+description: Coastal areas of the world that will likely be flooded by a 20 m rise in mean high tide level.
+
+layer id: bce6e424-eb3d-4600-8fb0-8bac2c76bcca
+name: Sea Level Rise  - 30 m rise
+description: Coastal areas of the world that will likely be flooded by a 30 m rise in mean high tide level.
+
+layer id: 828a45b7-0613-47c0-9265-bdd4ea718d7b
+name: Sea Level Rise - test
+description: 
+
+
+** NEW DATASET **
+ds id: e4946b37-ac8f-48f7-9498-dee5ab23db68
+ds on site: https://staging.resourcewatch.org/data/explore/e4946b37-ac8f-48f7-9498-dee5ab23db68
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 5edefab9-c707-447e-96f9-6115149e3a87
+ds on site: https://staging.resourcewatch.org/data/explore/5edefab9-c707-447e-96f9-6115149e3a87
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: d4ae7ebd-7ded-4855-a031-84222d7497cc
+ds on site: https://staging.resourcewatch.org/data/explore/d4ae7ebd-7ded-4855-a031-84222d7497cc
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: cef813a3-841a-4760-8899-7e550896fa14
+ds on site: https://staging.resourcewatch.org/data/explore/cef813a3-841a-4760-8899-7e550896fa14
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 565c3cb1-8015-4029-b497-e9245608580f
+ds on site: https://staging.resourcewatch.org/data/explore/565c3cb1-8015-4029-b497-e9245608580f
+
+~ layers ~
+
+layer id: 91039b2b-6b72-4f01-92da-f385324e8aa0
+name: 2015 Human Settlements Grid
+description: Highlights high density clusters or urban centers with a high degree of built-up land and high population density, low-density urban clusters or towns and suburbs, and rural areas in 2015.
+
+
+** NEW DATASET **
+ds id: 0ce24533-7877-4926-b962-a6c726332d82
+ds on site: https://staging.resourcewatch.org/data/explore/0ce24533-7877-4926-b962-a6c726332d82
+
+~ layers ~
+
+layer id: 47dc9961-05d6-48f1-93c5-aa633e4a1efa
+name: 2000 Cropland (% of grid cell)
+description: This map shows the percentage of the five-minute grid cell that is cropland.
+
+layer id: 1198417e-8cfb-4a40-96f7-9ec016384c86
+name: 2000 Pasture (% of Grid Cell)
+description: This map shows the percentage of the five-minute grid cell that is pasture.
+
+
+** NEW DATASET **
+ds id: 35744823-6af4-42d6-abb0-7c1ce996a969
+ds on site: https://staging.resourcewatch.org/data/explore/35744823-6af4-42d6-abb0-7c1ce996a969
+
+~ layers ~
+
+layer id: 96818c9e-1798-42e0-a0ef-d2edbc98fce2
+name: Average Annual Potential Evapotranspiration (mm/year)
+description: Average annual potential evapotranspiration  from 1950 to 2000.
+
+
+** NEW DATASET **
+ds id: 6e6750da-50c8-4b52-914f-b0d663a7ab59
+ds on site: https://staging.resourcewatch.org/data/explore/6e6750da-50c8-4b52-914f-b0d663a7ab59
+
+~ layers ~
+
+layer id: 52f1d1b8-6848-4a1b-b6ee-5101ba2dd886
+name: 2011-2015 Surface PM 2.5 Concentrations
+description: Estimate of ground-level fine particulate matter (PM 2.5) from satellite data from 2011-2015.
+
+
+** NEW DATASET **
+ds id: 16df8ada-87cc-4907-adce-a98bc4e91856
+ds on site: https://staging.resourcewatch.org/data/explore/16df8ada-87cc-4907-adce-a98bc4e91856
+
+~ layers ~
+
+layer id: fa233f5c-c0c6-4281-94bd-00ebbe4ab290
+name: Climate impacts on global hotspots of marine biodiversity (biodiversity hotspots)
+description: 
+
+
+** NEW DATASET **
+ds id: 2e0e735c-7bd9-44f4-ac5f-fbc8a967da8a
+ds on site: https://staging.resourcewatch.org/data/explore/2e0e735c-7bd9-44f4-ac5f-fbc8a967da8a
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 45b6a92d-d8b1-49f1-80f6-27d962e7aae4
+ds on site: https://staging.resourcewatch.org/data/explore/45b6a92d-d8b1-49f1-80f6-27d962e7aae4
+
+~ layers ~
+
+layer id: ac405d20-b87b-4b75-b965-f62ea3f8cf6a
+name: Manoki
+description: 
+
+
+** NEW DATASET **
+ds id: 12510410-1eb3-4af0-844f-8a05be50b1c1
+ds on site: https://staging.resourcewatch.org/data/explore/12510410-1eb3-4af0-844f-8a05be50b1c1
+
+~ layers ~
+
+layer id: 47835c64-6934-439f-8750-9e3f23debf5c
+name: Average Annual Precipitation (1971_2000)
+description: The NASA Earth Exchange Global Daily Downscaled Projections (NEX-GDDP) dataset is comprised of downscaled climate scenarios for the globe that are derived from the General Circulation Model (GCM) runs conducted under the Coupled Model Intercomparison Project Phase 5 (CMIP5) and across two of the four greenhouse gas emissions scenarios known as Representative Concentration Pathways (RCPs). The CMIP5 GCM runs were developed in support of the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC AR5). The NEX-GDDP dataset includes downscaled projections for RCP 4.5 and RCP 8.5 from the 21 models and scenarios for which daily scenarios were produced and distributed under CMIP5. Further information on the methodology can be found at https://nex.nasa.gov/nex/static/media/other/NEX-GDDP_Tech_Note_v1_08June2015.pdf. 
+
+
+** NEW DATASET **
+ds id: 74ebf4fe-6afb-46aa-a820-96fcae9a7e03
+ds on site: https://staging.resourcewatch.org/data/explore/74ebf4fe-6afb-46aa-a820-96fcae9a7e03
+
+~ layers ~
+
+layer id: 5dad06a6-45e4-49ee-86d3-1999a7fdb9c5
+name: Volcano Hazard (Deciles)
+description: The relative distribution and frequency of global volcano hazard displayed by decile.
+
+
+** NEW DATASET **
+ds id: 96ce9416-7a34-4c67-a21f-4f9b914d0d45
+ds on site: https://staging.resourcewatch.org/data/explore/96ce9416-7a34-4c67-a21f-4f9b914d0d45
+
+~ layers ~
+
+layer id: f3f675de-4f9b-4e6a-9fc0-81644849bf3f
+name: Land Area Protected by Country (%)
+description: Percent of land area under protection by country in 2014.
+
+
+** NEW DATASET **
+ds id: 3a7fa287-f4cb-47e5-8a9f-86f72dd3a354
+ds on site: https://staging.resourcewatch.org/data/explore/3a7fa287-f4cb-47e5-8a9f-86f72dd3a354
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 33a6b7d0-a495-4231-880b-9f2d071a8ce2
+ds on site: https://staging.resourcewatch.org/data/explore/33a6b7d0-a495-4231-880b-9f2d071a8ce2
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: ca59432c-b602-4d4a-809e-2a57758bddf3
+ds on site: https://staging.resourcewatch.org/data/explore/ca59432c-b602-4d4a-809e-2a57758bddf3
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 5d077888-5f04-41f5-9e70-e121dda35d27
+ds on site: https://staging.resourcewatch.org/data/explore/5d077888-5f04-41f5-9e70-e121dda35d27
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: f8d1971d-9a7e-4a25-9755-bcdb69aecd7b
+ds on site: https://staging.resourcewatch.org/data/explore/f8d1971d-9a7e-4a25-9755-bcdb69aecd7b
+
+~ layers ~
+
+layer id: 553cb10a-f9af-42ba-8fdd-ac4d05658bb4
+name: 2009 Land Cover
+description: Land cover map at 300 m resolution in 2009.
+
+
+** NEW DATASET **
+ds id: 0e565ddf-74fd-4f90-a6b8-c89d747a89ab
+ds on site: https://staging.resourcewatch.org/data/explore/0e565ddf-74fd-4f90-a6b8-c89d747a89ab
+
+~ layers ~
+
+layer id: 70e900f1-2c37-470d-9367-7b34567e3084
+name: Biodiversity Intactness (%)
+description: 
+
+
+** NEW DATASET **
+ds id: 37d5db2e-8ab8-4870-bfcc-534cdd5bdb76
+ds on site: https://staging.resourcewatch.org/data/explore/37d5db2e-8ab8-4870-bfcc-534cdd5bdb76
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 890b3400-ebed-46d1-a6d1-c2a87d49270d
+ds on site: https://staging.resourcewatch.org/data/explore/890b3400-ebed-46d1-a6d1-c2a87d49270d
+
+~ layers ~
+
+layer id: 09757d50-4e8e-471b-9cde-87ef6279bc7a
+name: 1961-2008 Maize Yield Trends (% change)
+description: The yield change from 1961 to 2008 of maize crops.
+
+layer id: 26c64ca5-ec19-4d5e-9fa0-d552cb8278fc
+name: 1961-2008 Rice Yield Trends (% change)
+description: The yield change from 1961 to 2008 of rice crops.
+
+layer id: f8ee0d9b-3f42-41c6-be40-c921b2cbdba5
+name: 1961-2008 Soybean Yield Trends (% change)
+description: The yield change from 1961 to 2008 of soybean crops.
+
+layer id: ec2b33b2-bc91-4d72-9303-1a9cfb0baa8b
+name: 1961-2008 Wheat Yield Trends (% change)
+description: The yield change from 1961 to 2008 of wheat crops.
+
+
+** NEW DATASET **
+ds id: b3ebc10d-9de8-4ee6-870d-1d049e8e2a99
+ds on site: https://staging.resourcewatch.org/data/explore/b3ebc10d-9de8-4ee6-870d-1d049e8e2a99
+
+~ layers ~
+
+layer id: 5fafeceb-a7ae-4bb3-bff7-f69a8880ff9f
+name: Earthquake Hazards - Frequency Deciles
+description: The relative distribution and frequency of global earthquake hazard based on data from 1976 - 2002. Hazard shown in deciles.
+
+
+** NEW DATASET **
+ds id: 7ab427f3-d990-4654-ae9f-5a9564c7c516
+ds on site: https://staging.resourcewatch.org/data/explore/7ab427f3-d990-4654-ae9f-5a9564c7c516
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: dcd1e9c7-1370-404e-8816-eaa51d4b1a39
+ds on site: https://staging.resourcewatch.org/data/explore/dcd1e9c7-1370-404e-8816-eaa51d4b1a39
+
+~ layers ~
+
+layer id: f1d841cb-a959-4b54-8472-e28f794b2c6a
+name: Land surface temperature anomaly
+description: Dataset you are currently viewing: March 22 - 29, 2017.
+
+
+** NEW DATASET **
+ds id: 7d9c0d09-e833-4a74-811b-0af78da9c731
+ds on site: https://staging.resourcewatch.org/data/explore/7d9c0d09-e833-4a74-811b-0af78da9c731
+
+~ layers ~
+
+layer id: 2a8fceb9-6acf-49b6-8b0e-7df3973bf749
+name: 2050 Projected Urban Population (%)
+description: Projected percentage of population living in urban areas in 2050.
+
+
+** NEW DATASET **
+ds id: 21ac3cd2-9c19-47c7-ad18-4bcad118870f
+ds on site: https://staging.resourcewatch.org/data/explore/21ac3cd2-9c19-47c7-ad18-4bcad118870f
+
+~ layers ~
+
+layer id: 9d295f2e-7626-4ed2-9e77-1e13356eaef7
+name: 2010-2015 Natural Resource Protection (%)
+description: The degree to which a country protects at least 17% of terrestrial biomes within its borders from 2010-2015.
+
+
+** NEW DATASET **
+ds id: 0f6c0ded-4f88-4902-b846-7bf57a9c3843
+ds on site: https://staging.resourcewatch.org/data/explore/0f6c0ded-4f88-4902-b846-7bf57a9c3843
+
+~ layers ~
+
+layer id: c00d88ec-510e-472e-8fee-d0b6951ff479
+name: Electricity Generated from Coal (%)
+description: The share of total electricity production that is generated by burning coal. Coal refers to all coal and brown coal, both primary (including hard coal and lignite-brown coal) and derived fuels (including patent fuel, coke oven coke, gas coke, coke oven gas, and blast furnace gas). Peat is also included in this category.
+
+
+** NEW DATASET **
+ds id: 85d5d550-b946-4dbd-bf77-875017c8e7ec
+ds on site: https://staging.resourcewatch.org/data/explore/85d5d550-b946-4dbd-bf77-875017c8e7ec
+
+~ layers ~
+
+layer id: 4db18afc-6d9d-4f6d-adec-ba31c0191aa5
+name: 2013 Number of Amphibian Species Under Threat
+description: The number of amphibian species under threat measured in 2013.
+
+layer id: 695d9420-d1e8-459e-ba9f-7a20dbcca736
+name: 2013 Number of Mammalian Species Under Threat
+description: The number of mammalian species under threat measured in 2013.
+
+layer id: 61898043-22fa-4508-b7d7-09cacbc7c587
+name: 2013 Number of Amphibian Species
+description: The number of amphibian species measured in 2013.
+
+layer id: 2d44febd-b796-4aaa-8357-f2ac85694e2b
+name: 2013 Number of Mammalian Species
+description: The number of mammalian species measured in 2013.
+
+
+** NEW DATASET **
+ds id: 83999e4c-a95f-4b19-98e0-b5e492619223
+ds on site: https://staging.resourcewatch.org/data/explore/83999e4c-a95f-4b19-98e0-b5e492619223
+
+~ layers ~
+
+layer id: 953007d4-914c-414e-81bb-61bba5766762
+name: National Boundaries (GADM)
+description: 
+
+
+** NEW DATASET **
+ds id: 20662342-dcdd-4a42-9f58-bcc80217de71
+ds on site: https://staging.resourcewatch.org/data/explore/20662342-dcdd-4a42-9f58-bcc80217de71
+
+~ layers ~
+
+layer id: f2d76e6b-060d-4dc9-83ea-284bef6b2aae
+name: World Languages
+description: Overview of official languages spoken in each country. First and second official World Languages.
+
+
+** NEW DATASET **
+ds id: 4d7ce999-1e37-418f-b8a6-1816b29e901a
+ds on site: https://staging.resourcewatch.org/data/explore/4d7ce999-1e37-418f-b8a6-1816b29e901a
+
+~ layers ~
+
+layer id: b33d6b62-92cf-49d3-a5e8-7450f4151239
+name: 2005-2014 Percent of Population Living Below the Poverty Line
+description: Percentage of population living below income poverty line, PPP (Purchasing Power Parity) $1.90 a day (%) from 2005-2014.
+
+
+** NEW DATASET **
+ds id: e1c2a239-f8fc-460d-9185-ddf3043934b0
+ds on site: https://staging.resourcewatch.org/data/explore/e1c2a239-f8fc-460d-9185-ddf3043934b0
+
+~ layers ~
+
+layer id: 6257999b-eb86-4e12-9d75-0d6fcfe8d590
+name: 2016 Refugees and Internally Displaced Persons (millions of people)
+description: Total number of refugees and internally displaced persons by asylum country in 2016.
+
+
+** NEW DATASET **
+ds id: c98b5ff9-4340-4564-b35f-d4b56e6e116c
+ds on site: https://staging.resourcewatch.org/data/explore/c98b5ff9-4340-4564-b35f-d4b56e6e116c
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 415dd499-8385-4c23-bd18-8ac49803cf9e
+ds on site: https://staging.resourcewatch.org/data/explore/415dd499-8385-4c23-bd18-8ac49803cf9e
+
+~ layers ~
+
+layer id: e6aa2e58-f96d-4b1b-8398-e973b945fbbc
+name: GLDAS Land Water Content from NOAH Land Surface Model.
+description: 
+
+
+** NEW DATASET **
+ds id: bd3ad33a-886b-4456-a032-119b9ac064de
+ds on site: https://staging.resourcewatch.org/data/explore/bd3ad33a-886b-4456-a032-119b9ac064de
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: cefd2836-3cc1-43dc-a9d1-bfecf79a6252
+ds on site: https://staging.resourcewatch.org/data/explore/cefd2836-3cc1-43dc-a9d1-bfecf79a6252
+
+~ layers ~
+
+layer id: 0668f151-1116-4a27-bb16-761cf259d3aa
+name: Solar Energy Potential (GHI - W/m²)
+description: Solar energy potential measured in average annual global horizontal irradiance (GHI). Average values are based on hourly data over the 1997-2010 period.
+
+
+** NEW DATASET **
+ds id: ed7862df-242a-4576-a4f4-619e2a3d347a
+ds on site: https://staging.resourcewatch.org/data/explore/ed7862df-242a-4576-a4f4-619e2a3d347a
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: f6bb99af-541a-4d41-9e47-cc36cb479d4b
+ds on site: https://staging.resourcewatch.org/data/explore/f6bb99af-541a-4d41-9e47-cc36cb479d4b
+
+~ layers ~
+
+layer id: b1223c4f-7132-42d3-a1cd-90e823adaa5f
+name: 2014 Built Up Areas (%)
+description: The percentage of each cell that represents building footprints in 2014.
+
+layer id: 756bac8c-6179-49ed-a42d-ca7dbd2f8652
+name: 2000 Built Up Areas (%)
+description: The percentage of each cell that represents building footprints in 2000.
+
+layer id: 7ebf12c1-3e2e-40f2-9056-19a62109c3e3
+name: 1990 Built Up Areas (%)
+description: The percentage of each cell that represents building footprints in 1990.
+
+layer id: 70408980-08cc-4a8a-9b14-89899e1faebe
+name: 1975 Built Up Areas (%)
+description: The percentage of each cell that represents building footprints in 1975.
+
+
+** NEW DATASET **
+ds id: e0331877-2109-4bd3-bb11-b75d0878c632
+ds on site: https://staging.resourcewatch.org/data/explore/e0331877-2109-4bd3-bb11-b75d0878c632
+
+~ layers ~
+
+layer id: 9447b20d-1095-4c6f-9330-57edc840d316
+name: 2015 Malaria Prevalence Among Children in Sub-Saharan Africa (%)
+description: Percentage of 2-10 year-olds infected by the parasite Plasmodium falciparum in African countries where it is endemic, as of 2015.
+
+
+** NEW DATASET **
+ds id: 4706bc01-cac7-4e31-bc36-f12ece139c50
+ds on site: https://staging.resourcewatch.org/data/explore/4706bc01-cac7-4e31-bc36-f12ece139c50
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 82629f63-cd3a-4c74-b083-eb48f440f12b
+ds on site: https://staging.resourcewatch.org/data/explore/82629f63-cd3a-4c74-b083-eb48f440f12b
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 75fc322b-fc58-4fdd-b172-43fd489f6270
+ds on site: https://staging.resourcewatch.org/data/explore/75fc322b-fc58-4fdd-b172-43fd489f6270
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 9ea634db-53af-445e-a767-60ec9efc321e
+ds on site: https://staging.resourcewatch.org/data/explore/9ea634db-53af-445e-a767-60ec9efc321e
+
+~ layers ~
+
+layer id: 3f4b4cbc-a87d-4162-a3cc-b1f792e40073
+name: Wind Energy Potential (m/s)
+description: Average wind speeds at 80 m off the Earth's surface, a common height for wind turbines. Data was collected from 1999-2009.
+
+layer id: c55250e5-2e1e-4cf2-b618-2aeaa5e0afd9
+name: [test] 1999-2009 Average Wind Speed (m/s)
+description: Average wind speeds at 80 m off the Earth's surface, a common height for wind turbines. Data was collected from 1999-2009.
+
+layer id: 9b6b0a1d-c7ee-4ebd-a145-ca02539aba5b
+name: [test 2] 1999-2009 Average Wind Speed (m/s)
+description: Average wind speeds at 80 m off the Earth's surface, a common height for wind turbines. Data was collected from 1999-2009.
+
+
+** NEW DATASET **
+ds id: aa9e9e43-a0bc-4835-a06d-d67af82bfd7c
+ds on site: https://staging.resourcewatch.org/data/explore/aa9e9e43-a0bc-4835-a06d-d67af82bfd7c
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 99075509-df36-461e-abb0-659cee555bd0
+ds on site: https://staging.resourcewatch.org/data/explore/99075509-df36-461e-abb0-659cee555bd0
+
+~ layers ~
+
+layer id: ca3293ef-63f5-462b-ac28-41e82aac21bf
+name: Global Land Aridity Index
+description: Land aridity, calculated as the ratio of mean annual precipitation to mean annual potential evapotranspiration shows moisture availability for potential growth of reference vegetation excluding the specific impact of soil condition to adsorb and hold water.
+
+
+** NEW DATASET **
+ds id: 11f43558-d703-4b9d-aff0-f2354a11b359
+ds on site: https://staging.resourcewatch.org/data/explore/11f43558-d703-4b9d-aff0-f2354a11b359
+
+~ layers ~
+
+layer id: e1c771af-d38c-439e-ae6d-76270f6d3078
+name: 1960-1990 Average Annual Precipitation (mm)
+description: Average annual precipitation from January 1, 1960 to December 31, 1990.
+
+
+** NEW DATASET **
+ds id: fc8cf356-f4be-4635-a896-fb468aaaa832
+ds on site: https://staging.resourcewatch.org/data/explore/fc8cf356-f4be-4635-a896-fb468aaaa832
+
+~ layers ~
+
+layer id: 972b5a2e-603b-4ce7-8de3-ee3ee2f3241f
+name: Forest Landscape Restoration Opportunity
+description: Types of landscape restoration opportunities based on forest condition and current land use.
+
+
+** NEW DATASET **
+ds id: 1ef55baf-bbbe-480d-85e9-7132c742f196
+ds on site: https://staging.resourcewatch.org/data/explore/1ef55baf-bbbe-480d-85e9-7132c742f196
+
+~ layers ~
+
+layer id: dc2c2cc8-a351-4221-ad16-0671bc430ada
+name: 2030 Coral Bleaching Frequency (%)
+description: The map depicts the frequency of future bleaching events in the 2030s  as represented by the percentage of years in each decade where a NOAA Bleaching Alert Level 2 (i.e., severe thermal stress) is predicted to occur.
+
+layer id: f7862c92-3300-40d0-bc59-17ce5769646a
+name: 2050 Coral Bleaching Frequency (%)
+description: The map depicts the frequency of future bleaching events in the 2050s as represented by the percentage of years in each decade where a NOAA Bleaching Alert Level 2 (i.e., severe thermal stress) is predicted to occur.
+
+
+** NEW DATASET **
+ds id: 65c0e15b-dad0-4681-934e-91c0a378d2fb
+ds on site: https://staging.resourcewatch.org/data/explore/65c0e15b-dad0-4681-934e-91c0a378d2fb
+
+~ layers ~
+
+layer id: ee4bee7f-e9ba-4eef-bb38-ce00536e55de
+name: 2013 Nighttime Stable Lights
+description: This layer contains lights from cities, towns, and other sites with persistent lighting, including gas flares. Ephemeral events, such as fires have been discarded. The background noise was identified and replaced with values of zero.
+
+
+** NEW DATASET **
+ds id: bab30f88-eb92-4aac-ba6d-fb7c61f4b7d3
+ds on site: https://staging.resourcewatch.org/data/explore/bab30f88-eb92-4aac-ba6d-fb7c61f4b7d3
+
+~ layers ~
+
+layer id: 15313111-6a11-4832-bf44-0e52a2fe05ad
+name: 2050 Projected Population (millions)
+description: Projected population in 2050 by country
+
+
+** NEW DATASET **
+ds id: 585938cd-a438-43e8-b1de-bc767a98e0df
+ds on site: https://staging.resourcewatch.org/data/explore/585938cd-a438-43e8-b1de-bc767a98e0df
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: b18320f6-2d8b-4776-8f60-55bce10f7957
+ds on site: https://staging.resourcewatch.org/data/explore/b18320f6-2d8b-4776-8f60-55bce10f7957
+
+~ layers ~
+
+layer id: b51c7412-cb4d-4dab-8eeb-8cc31c131195
+name: Article Tone
+description: The average "tone" of the entire article mentioning this location. Updated hourly.
+
+
+** NEW DATASET **
+ds id: 63a7a997-695d-4629-b6e9-9b169f5c69bf
+ds on site: https://staging.resourcewatch.org/data/explore/63a7a997-695d-4629-b6e9-9b169f5c69bf
+
+~ layers ~
+
+layer id: 77ba0a3b-3940-4525-90ad-f1c729bc8673
+name: World Hydro Reference
+description: Reference overlay highlighting water features for use with layers related to the natural sciences.
+
+
+** NEW DATASET **
+ds id: ddac9a5a-1b8a-4c04-b47e-70ef527addc1
+ds on site: https://staging.resourcewatch.org/data/explore/ddac9a5a-1b8a-4c04-b47e-70ef527addc1
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: c48f0582-164f-4faa-97a2-7ad2e3111d3d
+ds on site: https://staging.resourcewatch.org/data/explore/c48f0582-164f-4faa-97a2-7ad2e3111d3d
+
+~ layers ~
+
+layer id: 398051aa-fe8b-4ac7-93bb-3f3d206c02f7
+name: MODIS Normalized Difference Vegetation Index
+description: 
+
+
+** NEW DATASET **
+ds id: bbadb233-84ea-4ae1-893f-deba67f1d5de
+ds on site: https://staging.resourcewatch.org/data/explore/bbadb233-84ea-4ae1-893f-deba67f1d5de
+
+~ layers ~
+
+layer id: b43325a0-b9f1-4eda-b457-f1cadf9fadd2
+name: 2002-2010 Water Pollution Levels
+description: 
+
+
+** NEW DATASET **
+ds id: ac750026-e66d-4403-b607-efcf01189d21
+ds on site: https://staging.resourcewatch.org/data/explore/ac750026-e66d-4403-b607-efcf01189d21
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: ec8359f3-4b35-4212-9482-3e34c55a3ef5
+ds on site: https://staging.resourcewatch.org/data/explore/ec8359f3-4b35-4212-9482-3e34c55a3ef5
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: b9ae853a-8e80-4c99-8bc8-30973b029710
+ds on site: https://staging.resourcewatch.org/data/explore/b9ae853a-8e80-4c99-8bc8-30973b029710
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: c8040a7a-a40f-48bd-b003-625c33beff5e
+ds on site: https://staging.resourcewatch.org/data/explore/c8040a7a-a40f-48bd-b003-625c33beff5e
+
+~ layers ~
+
+layer id: 15dd3d92-4d2b-4fc1-83f5-672306dded1f
+name: Sea Surface Temperature Anomalies.
+description: 
+
+
+** NEW DATASET **
+ds id: c9c9cb2f-9655-4f40-8736-9b407ee43514
+ds on site: https://staging.resourcewatch.org/data/explore/c9c9cb2f-9655-4f40-8736-9b407ee43514
+
+~ layers ~
+
+layer id: e15cdfe9-ed6e-40a7-8dd1-e9516c7c24a6
+name: Current Methane Concentration, CH₄
+description: 
+
+
+** NEW DATASET **
+ds id: 9e7dc020-5a93-4df8-b81e-ee3e7bf32764
+ds on site: https://staging.resourcewatch.org/data/explore/9e7dc020-5a93-4df8-b81e-ee3e7bf32764
+
+~ layers ~
+
+layer id: 29ce6221-9450-4b60-a9c2-aea581d31a08
+name: Monthly Air Temperature Anomalies.
+description: 
+
+
+** NEW DATASET **
+ds id: e66121ff-b785-4f27-aa1b-180af31a17cc
+ds on site: https://staging.resourcewatch.org/data/explore/e66121ff-b785-4f27-aa1b-180af31a17cc
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: ad790c87-fe9e-4405-891d-de7c2ddfda79
+ds on site: https://staging.resourcewatch.org/data/explore/ad790c87-fe9e-4405-891d-de7c2ddfda79
+
+~ layers ~
+
+layer id: 73db724d-87b9-41cd-912a-b66eb65eebdd
+name: Coral Reef Watch Bleaching Hotspots
+description: The maximum level of coral bleaching stress an ocean grid cell has been exposed to in the last week due to prolonged high sea surface temperature (SST). The scale ranges from 0, Bleaching Watch, to 8, Mortality Likely.
+
+
+** NEW DATASET **
+ds id: 7a213f00-5be7-4f11-a859-3b9058dae2e6
+ds on site: https://staging.resourcewatch.org/data/explore/7a213f00-5be7-4f11-a859-3b9058dae2e6
+
+~ layers ~
+
+layer id: 8abc876c-d689-4e3d-ac9e-dd9ac6dd51cd
+name: Tropical and Temperate Rainfall Dataset, Climate Hazard InfraRed Precipitation with Stations: CHIRPS
+description: 
+
+
+** NEW DATASET **
+ds id: 42de3f98-ba1c-4572-a227-2e18d45239a5
+ds on site: https://staging.resourcewatch.org/data/explore/42de3f98-ba1c-4572-a227-2e18d45239a5
+
+~ layers ~
+
+layer id: b6e19530-8120-40fc-baeb-a545b32556ae
+name: State Fragility Index
+description: State Fragility Index
+
+
+** NEW DATASET **
+ds id: b4dbb3a5-654f-4f36-aa32-c28f7406d6f4
+ds on site: https://staging.resourcewatch.org/data/explore/b4dbb3a5-654f-4f36-aa32-c28f7406d6f4
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 3b7c3e8f-f7c0-466f-8f7c-01d73afc0988
+ds on site: https://staging.resourcewatch.org/data/explore/3b7c3e8f-f7c0-466f-8f7c-01d73afc0988
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: efa4d726-64d7-4fd5-835c-402fd22d171b
+ds on site: https://staging.resourcewatch.org/data/explore/efa4d726-64d7-4fd5-835c-402fd22d171b
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 32324f22-e7f6-4e0d-bc38-d82c6484f1be
+ds on site: https://staging.resourcewatch.org/data/explore/32324f22-e7f6-4e0d-bc38-d82c6484f1be
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 88648f97-35a5-4384-b141-ac00b4f66209
+ds on site: https://staging.resourcewatch.org/data/explore/88648f97-35a5-4384-b141-ac00b4f66209
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 2b569ae2-9452-44f8-9c81-3c3afb6c3c25
+ds on site: https://staging.resourcewatch.org/data/explore/2b569ae2-9452-44f8-9c81-3c3afb6c3c25
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 9d9b48d3-152d-48c3-8c2a-2957ddb601a1
+ds on site: https://staging.resourcewatch.org/data/explore/9d9b48d3-152d-48c3-8c2a-2957ddb601a1
+
+~ layers ~
+
+layer id: f92216b7-3c45-4026-8f06-bf53e1e464a4
+name: CMAP: Climate Prediction Center Merged Analysis of Precipitation.
+description: 
+
+
+** NEW DATASET **
+ds id: 9d03913c-050c-4080-b396-36724e557f94
+ds on site: https://staging.resourcewatch.org/data/explore/9d03913c-050c-4080-b396-36724e557f94
+
+~ layers ~
+
+layer id: f195671a-523d-403c-bb58-eaff320aa532
+name: ESA Soil Moisture Data from Active and Passive Microwave Satellite Sensors.
+description: 
+
+
+** NEW DATASET **
+ds id: e94f0e2d-2b5f-41ed-967f-d97e54dd81ea
+ds on site: https://staging.resourcewatch.org/data/explore/e94f0e2d-2b5f-41ed-967f-d97e54dd81ea
+
+~ layers ~
+
+layer id: f17a1eef-0f3a-4021-8442-db303ce369fd
+name: Tsunami Events
+description: Record of all known tsunamis and their characteristics, updated weekly.
+
+
+** NEW DATASET **
+ds id: 3c473fd2-2e82-48ce-8f16-c14a104655eb
+ds on site: https://staging.resourcewatch.org/data/explore/3c473fd2-2e82-48ce-8f16-c14a104655eb
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 11a8995c-051f-455c-9b94-c868f2161894
+ds on site: https://staging.resourcewatch.org/data/explore/11a8995c-051f-455c-9b94-c868f2161894
+
+~ layers ~
+
+
+** NEW DATASET **
+ds id: 90a76816-cb42-49e0-a736-9c3d82cb0d59
+ds on site: https://staging.resourcewatch.org/data/explore/90a76816-cb42-49e0-a736-9c3d82cb0d59
+
+~ layers ~
+
+
