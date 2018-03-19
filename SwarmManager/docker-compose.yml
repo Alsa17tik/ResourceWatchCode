@@ -1,0 +1,10 @@
+version: '3'
+services:
+  docker-machine:
+    build:
+      context: .
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./.env:/opt/swarm_manager/.env
+    tty: true
+    stdin_open: true
