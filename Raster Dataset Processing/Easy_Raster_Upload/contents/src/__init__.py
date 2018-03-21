@@ -36,4 +36,4 @@ datestamps = [datetime.strptime(date, DATE_FORMAT)
 def ic(asset):
     return '{}/{}'.format(EE_COLLECTION, os.path.splitext(asset)[0])
 asset_names = [ic(t) for t in tifs]
-eeUtil.uploadAssets(tifs, asset_names, GS_FOLDER, datestamps)
+eeUtil.uploadAssets(tifs, asset_names, GS_FOLDER, datestamps, public=True, timeout=30000)
