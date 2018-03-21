@@ -9,8 +9,19 @@ eeUtil.initJson()
 
 GS_FOLDER = 'broad_age_groups'
 EE_COLLECTION = 'soc_075_broad_age_groups/{}'
+def checkCreateCollection(collection):
+    '''List assests in collection else create new collection'''
+    if eeUtil.exists(collection):
+        return eeUtil.ls(collection)
+    else:
+        logging.info('{} does not exist, creating'.format(collection))
+        eeUtil.createFolder(collection, True, public=True)
+        return []
+
+existing_files = checkCreateCollection(EE_COLLECTION)
 def ic(asset):
     return EE_COLLECTION.format(os.path.splitext(asset)[0])
+
 
 # Make sure your data is in the rasters folder
 DATA_DIR = 'rasters'
