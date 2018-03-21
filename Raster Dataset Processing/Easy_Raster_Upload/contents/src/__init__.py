@@ -10,12 +10,13 @@ eeUtil.initJson()
 GS_FOLDER = 'broad_age_groups'
 EE_COLLECTION = 'soc_075_broad_age_groups/{}'
 def ic(asset):
-    return EE_COLLECTION.format(os.split.ext(asset)[0])
+    return EE_COLLECTION.format(os.path.splitext(asset)[0])
 
 # Make sure your data is in the rasters folder
 DATA_DIR = 'rasters'
+EXTENSIONS = ['.tif', '.nc']
 os.chdir(DATA_DIR)
-tifs = [os.listdir('.')]
+tifs = [f for f in os.listdir('.') if os.path.splitext(f)[1] in EXTENSIONS]
 logging.info('TIFS: {}'.format(tifs))
 
 # Update this manually, or with a function of the tif name
